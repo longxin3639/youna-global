@@ -25,6 +25,22 @@ if (contactForm) {
   });
 }
 
+// Check for success parameter and show modal
+document.addEventListener('DOMContentLoaded', function() {
+  if (window.location.search.includes('success=true')) {
+    const successModal = document.getElementById('successModal');
+    if (successModal) {
+      successModal.style.display = 'flex';
+      // Clear the URL parameter
+      window.history.replaceState({}, document.title, window.location.pathname);
+      // Auto-hide modal after 5 seconds
+      setTimeout(() => {
+        successModal.style.display = 'none';
+      }, 5000);
+    }
+  }
+});
+
 // Smooth scroll for anchor links
 document.querySelectorAll('a[href^="#"]').forEach(anchor => {
   anchor.addEventListener('click', function (e) {

@@ -48,6 +48,17 @@
 <section class="section">
   <div class="container contact-layout">
 
+    <!-- Success Message Modal -->
+    <div id="successModal" class="success-modal" style="display: none;">
+      <div class="success-modal-content">
+        <div class="success-icon">✓</div>
+        <h3>Thank You!</h3>
+        <p>Your inquiry has been received successfully.</p>
+        <p class="success-subtitle">We will review your message and get back to you within 24 hours via email.</p>
+        <button onclick="document.getElementById('successModal').style.display='none'" class="btn btn-primary">Close</button>
+      </div>
+    </div>
+
     <!-- Contact Info -->
     <div class="contact-info">
       <h2>Get in Touch</h2>
@@ -135,6 +146,8 @@
       >
         <!-- FormSubmit Configuration -->
         <input type="hidden" name="_captcha" value="false" />
+        <input type="hidden" name="_subject" value="New Product Inquiry from Youna Global" />
+        <input type="hidden" name="_template" value="table" />
         <input type="hidden" name="_next" value="https://youna-global.com/contact.html?success=true" />
         
         <div class="form-row">
