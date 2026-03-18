@@ -15,23 +15,13 @@ if (navToggle && navLinks) {
   });
 }
 
-// Contact form handler
+// Contact form handler - FormSubmit integration
 const contactForm = document.getElementById('contactForm');
 if (contactForm) {
   contactForm.addEventListener('submit', function (e) {
-    e.preventDefault();
-    const name = document.getElementById('name')?.value || '';
-    const email = document.getElementById('email')?.value || '';
-    const service = document.getElementById('service')?.value || '';
-    const message = document.getElementById('message')?.value || '';
-    const country = document.getElementById('country')?.value || '';
-
-    // Build mailto link
-    const subject = encodeURIComponent(`Inquiry from ${name} (${country}) – ${service}`);
-    const body = encodeURIComponent(
-      `Hi Karsa,\n\nMy name is ${name} from ${country}.\n\nService needed: ${service}\n\nMessage:\n${message}\n\nBest regards,\n${name}\nEmail: ${email}`
-    );
-    window.location.href = `mailto:longxin3639@gmail.com?subject=${subject}&body=${body}`;
+    // Allow form to submit normally to FormSubmit API
+    // FormSubmit will handle data storage and email notification
+    // User will be redirected to success page via _next parameter
   });
 }
 
