@@ -127,7 +127,16 @@
     <!-- Inquiry Form -->
     <div class="contact-form-wrap">
       <h2>Send an Inquiry</h2>
-      <form class="contact-form" id="contactForm">
+      <form 
+        class="contact-form" 
+        id="contactForm"
+        action="https://formsubmit.co/longxin3639@gmail.com"
+        method="POST"
+      >
+        <!-- FormSubmit Configuration -->
+        <input type="hidden" name="_captcha" value="false" />
+        <input type="hidden" name="_next" value="https://youna-global.com/contact.html?success=true" />
+        
         <div class="form-row">
           <div class="form-group">
             <label for="name">Your Name *</label>
