@@ -187,9 +187,10 @@ a { text-decoration: none; color: inherit; }
   width: 100% !important;
 }
 .trust-flags span { 
-  font-size: 0.9rem; 
+  font-size: 1.1rem; 
   color: var(--text); 
-  font-weight: 500; 
+  font-weight: 500;
+  line-height: 1.5;
 }
 
 /* ---- SECTIONS ---- */
@@ -611,10 +612,6 @@ a { text-decoration: none; color: inherit; }
 /* Make WeChat button clickable */
 #wechatBtn {
   cursor: pointer;
-  border: none;
-  background: transparent;
-  padding: 0;
-  text-align: left;
   transition: transform 0.2s ease;
 }
 
