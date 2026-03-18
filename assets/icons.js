@@ -31,25 +31,35 @@ const ICONS = {
 
 // Inject icons into all matching elements
 document.addEventListener('DOMContentLoaded', function() {
-  // WhatsApp float button - DISABLED (now using Font Awesome)
-  // Re-enabled only if Font Awesome CDN fails to load
-  if (document.querySelectorAll('.whatsapp-float i').length === 0) {
-    document.querySelectorAll('.whatsapp-float').forEach(el => {
-      if (el.innerHTML.trim() === '') {
-        el.innerHTML = ICONS.whatsapp;
-        el.style.display = 'flex';
-        el.style.alignItems = 'center';
-        el.style.justifyContent = 'center';
-        el.style.position = 'fixed';
-        el.style.zIndex = '9999';
-        const svg = el.querySelector('svg');
-        if (svg) {
-          svg.style.color = 'white';
-          svg.style.fill = 'white';
-        }
-      }
-    });
-  }
+  // WhatsApp float button
+  document.querySelectorAll('.whatsapp-float-icon').forEach(el => {
+    el.innerHTML = ICONS.whatsapp;
+    el.parentElement.style.display = 'flex';
+    el.parentElement.style.alignItems = 'center';
+    el.parentElement.style.justifyContent = 'center';
+    el.parentElement.style.position = 'fixed';
+    el.parentElement.style.zIndex = '9999';
+    const svg = el.querySelector('svg');
+    if (svg) {
+      svg.style.color = 'white';
+      svg.style.fill = 'white';
+    }
+  });
+
+  // WhatsApp and WeChat method icons (contact cards)
+  document.querySelectorAll('.method-icon.whatsapp-icon').forEach(el => {
+    el.innerHTML = ICONS.whatsapp;
+    el.style.display = 'flex';
+    el.style.alignItems = 'center';
+    el.style.justifyContent = 'center';
+  });
+
+  document.querySelectorAll('.method-icon.wechat-icon').forEach(el => {
+    el.innerHTML = ICONS.wechat;
+    el.style.display = 'flex';
+    el.style.alignItems = 'center';
+    el.style.justifyContent = 'center';
+  });
 
   // Social cards icons
   document.querySelectorAll('.social-card.youtube .social-icon, .contact-social-item.youtube .cs-icon').forEach(el => {
@@ -88,8 +98,4 @@ document.addEventListener('DOMContentLoaded', function() {
   document.querySelectorAll('.tiktok-pill').forEach(el => {
     el.innerHTML = ICONS.tiktok + ' TikTok';
   });
-
-  // WeChat method icon - DISABLED (now using Font Awesome)
-  // Previously replaced 💚 emoji with SVG, now using Font Awesome fa-weixin
-  // No action needed - Font Awesome handles display
 });
