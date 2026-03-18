@@ -325,11 +325,22 @@ a { text-decoration: none; color: inherit; }
 
 /* ---- WHATSAPP FLOAT ---- */
 .whatsapp-float {
-  position: fixed; bottom: 28px; right: 28px; z-index: 999;
-  width: 60px; height: 60px; border-radius: 50%;
-  background: var(--green); display: flex; align-items: center; justify-content: center;
-  box-shadow: 0 4px 20px rgba(37,211,102,0.5); transition: all 0.3s;
+  position: fixed !important; 
+  bottom: 28px !important; 
+  right: 28px !important; 
+  z-index: 9999 !important;
+  width: 60px; 
+  height: 60px; 
+  border-radius: 50%;
+  background: var(--green); 
+  display: flex !important; 
+  align-items: center !important; 
+  justify-content: center !important;
+  box-shadow: 0 4px 20px rgba(37,211,102,0.5); 
+  transition: all 0.3s;
   animation: wa-pulse 2s infinite;
+  visibility: visible !important;
+  opacity: 1 !important;
 }
 .whatsapp-float:hover { transform: scale(1.1); box-shadow: 0 6px 28px rgba(37,211,102,0.7); }
 @keyframes wa-pulse {
@@ -376,8 +387,19 @@ a { text-decoration: none; color: inherit; }
   .social-grid { grid-template-columns: 1fr; }
   .categories-grid { grid-template-columns: repeat(2, 1fr); }
   .contact-social-grid { grid-template-columns: 1fr; }
-  .whatsapp-float { bottom: 20px; right: 20px; width: 56px; height: 56px; }
-  .whatsapp-float svg { width: 26px; height: 26px; }
+  .whatsapp-float { 
+    bottom: 16px !important; 
+    right: 16px !important; 
+    width: 56px !important; 
+    height: 56px !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+    display: flex !important;
+  }
+  .whatsapp-float svg { 
+    width: 26px; 
+    height: 26px; 
+  }
 }
 
 /* ---- PRODUCT CATEGORIES ---- */
