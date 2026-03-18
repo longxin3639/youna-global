@@ -31,36 +31,6 @@ const ICONS = {
 
 // Inject icons into all matching elements
 document.addEventListener('DOMContentLoaded', function() {
-  // WhatsApp float button
-  document.querySelectorAll('.whatsapp-float-icon').forEach(el => {
-    el.innerHTML = ICONS.whatsapp;
-    el.parentElement.style.display = 'flex';
-    el.parentElement.style.alignItems = 'center';
-    el.parentElement.style.justifyContent = 'center';
-    el.parentElement.style.position = 'fixed';
-    el.parentElement.style.zIndex = '9999';
-    const svg = el.querySelector('svg');
-    if (svg) {
-      svg.style.color = 'white';
-      svg.style.fill = 'white';
-    }
-  });
-
-  // WhatsApp and WeChat method icons (contact cards)
-  document.querySelectorAll('.method-icon.whatsapp-icon').forEach(el => {
-    el.innerHTML = ICONS.whatsapp;
-    el.style.display = 'flex';
-    el.style.alignItems = 'center';
-    el.style.justifyContent = 'center';
-  });
-
-  document.querySelectorAll('.method-icon.wechat-icon').forEach(el => {
-    el.innerHTML = ICONS.wechat;
-    el.style.display = 'flex';
-    el.style.alignItems = 'center';
-    el.style.justifyContent = 'center';
-  });
-
   // Social cards icons
   document.querySelectorAll('.social-card.youtube .social-icon, .contact-social-item.youtube .cs-icon').forEach(el => {
     el.innerHTML = ICONS.youtube;
