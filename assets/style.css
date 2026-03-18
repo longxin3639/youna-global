@@ -376,6 +376,8 @@ a { text-decoration: none; color: inherit; }
   .social-grid { grid-template-columns: 1fr; }
   .categories-grid { grid-template-columns: repeat(2, 1fr); }
   .contact-social-grid { grid-template-columns: 1fr; }
+  .whatsapp-float { bottom: 20px; right: 20px; width: 56px; height: 56px; }
+  .whatsapp-float svg { width: 26px; height: 26px; }
 }
 
 /* ---- PRODUCT CATEGORIES ---- */
