@@ -34,6 +34,17 @@ document.addEventListener('DOMContentLoaded', function() {
   // WhatsApp float button
   document.querySelectorAll('.whatsapp-float').forEach(el => {
     el.innerHTML = ICONS.whatsapp;
+    el.style.display = 'flex';
+    el.style.alignItems = 'center';
+    el.style.justifyContent = 'center';
+    el.style.position = 'fixed';
+    el.style.zIndex = '9999';
+    // Find SVG and set its color
+    const svg = el.querySelector('svg');
+    if (svg) {
+      svg.style.color = 'white';
+      svg.style.fill = 'white';
+    }
   });
 
   // Social cards icons
