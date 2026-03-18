@@ -59,6 +59,16 @@
       </div>
     </div>
 
+    <!-- WeChat QR Code Modal -->
+    <div id="wechatModal" class="wechat-modal" style="display: none;">
+      <div class="wechat-modal-content">
+        <button class="wechat-modal-close" onclick="document.getElementById('wechatModal').style.display='none'">✕</button>
+        <h3>Scan to Add on WeChat</h3>
+        <img src="assets/WeChat QR code.jpg" alt="WeChat QR Code" class="wechat-qr" />
+        <p class="wechat-info">WeChat ID: <strong>lx-3639</strong></p>
+      </div>
+    </div>
+
     <!-- Contact Info -->
     <div class="contact-info">
       <h2>Get in Touch</h2>
@@ -73,14 +83,14 @@
             <small>Fastest — usually within 1 hour</small>
           </div>
         </a>
-        <div class="contact-method">
+        <button class="contact-method wechat-method" id="wechatBtn" onclick="document.getElementById('wechatModal').style.display='flex'">
           <div class="method-icon">💚</div>
           <div class="method-body">
             <strong>WeChat</strong>
             <span>lx-3639</span>
             <small>Add for easy communication</small>
           </div>
-        </div>
+        </button>
         <a href="mailto:longxin3639@gmail.com" class="contact-method">
           <div class="method-icon">✉️</div>
           <div class="method-body">
