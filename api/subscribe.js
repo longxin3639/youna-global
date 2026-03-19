@@ -2,7 +2,7 @@
 // Vercel Serverless Function for Mailchimp Integration
 // Auto-detects or creates Audience - no List ID needed!
 
-export default async function handler(req, res) {
+module.exports = async function handler(req, res) {
   // Only allow POST requests
   if (req.method !== 'POST') {
     return res.status(405).json({ error: 'Method not allowed' });
@@ -74,7 +74,7 @@ export default async function handler(req, res) {
       message: 'Server error: ' + error.message 
     });
   }
-}
+};
 
 // Helper function: Find or Create Audience
 async function findOrCreateAudience(apiKey, dataCenter) {
