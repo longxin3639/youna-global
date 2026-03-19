@@ -44,6 +44,14 @@ body {
 img { 
   max-width: 100%;
   display: block;
+  height: auto;
+}
+img[data-lazy="true"] {
+  opacity: 0;
+  transition: opacity 0.3s ease-in;
+}
+img[data-lazy="loaded"] {
+  opacity: 1;
 }
 a { text-decoration: none; color: inherit; }
 
@@ -109,20 +117,30 @@ a { text-decoration: none; color: inherit; }
   color: var(--muted); transition: all 0.2s;
 }
 .nav-links a:hover, .nav-links a.active { color: var(--primary); background: var(--primary-light); }
-.nav-toggle { 
-  display: none; 
-  flex-direction: column; 
-  gap: 5px; 
-  background: none; 
-  border: none; 
-  cursor: pointer; 
-  padding: 8px; 
-  z-index: 1001; 
-  pointer-events: auto;
+.nav-toggle {
+  display: none;
+  flex-direction: column;
+  gap: 5px;
+  background: rgba(255,255,255,0.9);
+  border: 1px solid rgba(0,0,0,0.1);
+  cursor: pointer;
+  padding: 8px;
+  z-index: 10000 !important;
+  pointer-events: auto !important;
   min-width: 44px;
   min-height: 44px;
   align-items: center;
   justify-content: center;
+  position: relative;
+  border-radius: 6px;
+  transition: all 0.2s;
+}
+.nav-toggle:hover {
+  background: rgba(255,255,255,1);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+.nav-toggle:active {
+  transform: scale(0.95);
 }
 .nav-toggle span { display: block; width: 24px; height: 2px; background: var(--text); border-radius: 2px; transition: all 0.3s; }
 
@@ -788,6 +806,10 @@ a { text-decoration: none; color: inherit; }
   .company-grid { grid-template-columns: repeat(2, 1fr); grid-auto-rows: auto; }
   .company-card { min-width: 0; }
   .countries-grid { grid-template-columns: repeat(2, 1fr); }
+  .categories-grid { grid-template-columns: repeat(3, 1fr); gap: 12px; }
+  .category-card { padding: 20px 12px; }
+  .cat-icon { font-size: 1.8rem; }
+  .category-card h4 { font-size: 0.85rem; }
   .footer-inner { grid-template-columns: 1fr; }
   .nav-links { 
     display: none;
@@ -820,8 +842,23 @@ a { text-decoration: none; color: inherit; }
     border-bottom: none;
   }
   .nav-cta { display: none; }
-  .nav-toggle { display: flex; }
-  .hero { min-height: auto; padding: 60px 0; }
+  .nav-toggle { display: flex !important; }
+  .hero { 
+    min-height: auto !important; 
+    padding: 100px 0 60px !important; 
+  }
+  .hero-content { 
+    padding: 0 20px !important; 
+    max-width: 100% !important;
+  }
+  .hero-title {
+    font-size: 1.8rem !important;
+    margin-bottom: 20px !important;
+  }
+  .hero-sub {
+    font-size: 1rem !important;
+    margin-bottom: 30px !important;
+  }
   .hero-stats { gap: 24px; }
   .hero-actions { flex-direction: column; }
   .form-row { grid-template-columns: 1fr; }
