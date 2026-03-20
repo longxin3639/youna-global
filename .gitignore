@@ -1,0 +1,24 @@
+# 不追踪的文件
+update_icons.py
+test-menu.html
+test-mobile-nav.html
+blog-placeholder.html
+UPLOAD_GUIDE.md
+.workbuddy/
+*.pyc
+__pycache__/
+.DS_Store
+Thumbs.db
+
+# 开发文档（不上传到 GitHub）
+docs/FACEBOOK_PROFILE_UPDATE.md
+docs/FACEBOOK_PROFILE_UPDATE_EN.md
+docs/FAVICON_SETUP.md
+docs/FOLDER_ORGANIZATION_GUIDE.md
+docs/GOOGLE_SEARCH_CONSOLE_SETUP.md
+docs/MOBILE_FIX_SUMMARY.md
+docs/MOBILE_NAV_TROUBLESHOOTING.md
+docs/PERFORMANCE_OPTIMIZATION.md
+docs/SEO_OPTIMIZATION_SUMMARY.md
+docs/UPLOAD_GUIDE.md
+docs/update_icons.py
