@@ -1,7 +1,5 @@
 User-agent: *
-Allow: /
 Disallow: /admin/
 Disallow: /private/
 
 Sitemap: https://youna-global.com/sitemap.xml
-Host: youna-global.com
