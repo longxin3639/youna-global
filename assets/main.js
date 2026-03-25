@@ -139,3 +139,4 @@ document.querySelectorAll('.service-card, .why-card, .testimonial-card, .step, .
   el.style.transition = 'opacity 0.5s ease, transform 0.5s ease';
   observer.observe(el);
 });
+

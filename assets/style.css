@@ -1113,7 +1113,7 @@ a { text-decoration: none; color: inherit; }
   display: flex;
   gap: 20px;
   align-items: center;
-  margin-bottom: 12px;
+  margin-bottom: 24px;
   flex-wrap: wrap;
 }
 .article-category {
@@ -1137,7 +1137,8 @@ a { text-decoration: none; color: inherit; }
   font-weight: 800;
   line-height: 1.2;
   color: var(--dark);
-  margin-bottom: 16px;
+  margin-top: 8px;
+  margin-bottom: 24px;
 }
 .article-excerpt {
   font-size: 1.25rem;
@@ -1191,6 +1192,9 @@ a { text-decoration: none; color: inherit; }
   grid-template-columns: 1fr 320px;
   gap: 48px;
   align-items: start;
+}
+.article-main {
+  min-width: 0;
 }
 .article-content {
   min-width: 0;
@@ -1328,6 +1332,7 @@ a { text-decoration: none; color: inherit; }
 .article-sidebar {
   position: sticky;
   top: 100px;
+  align-self: start;
 }
 .sidebar-card {
   background: #fff;
