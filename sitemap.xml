@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Main Pages -->
   <url>
     <loc>https://www.youna-global.com/</loc>
-    <lastmod>2026-04-14</lastmod>
+    <lastmod>2026-04-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -30,12 +31,16 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+
+  <!-- Blog Listing -->
   <url>
     <loc>https://www.youna-global.com/blog.html</loc>
-    <lastmod>2026-04-14</lastmod>
+    <lastmod>2026-04-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
+
+  <!-- Blog Articles -->
   <url>
     <loc>https://www.youna-global.com/blog-how-to-import-from-china.html</loc>
     <lastmod>2026-04-14</lastmod>
@@ -85,13 +90,27 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.youna-global.com/sourcing-agent-amazon.html</loc>
+    <loc>https://www.youna-global.com/blog-china-plus-one-vs-china-only-2026.html</loc>
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.youna-global.com/blog-placeholder.html</loc>
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- SEO Landing Pages -->
+  <url>
+    <loc>https://www.youna-global.com/china-buying-agent.html</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.youna-global.com/china-buying-agent.html</loc>
+    <loc>https://www.youna-global.com/sourcing-agent-amazon.html</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -143,5 +162,11 @@
     <lastmod>2026-04-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.youna-global.com/tariff-proof-china-sourcing.html</loc>
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
   </url>
 </urlset>
