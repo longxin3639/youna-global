@@ -337,7 +337,7 @@
       <!-- Review 1: Decorative Stone Product Showcase -->
       <div class="testimonial-card testimonial-screenshot-card">
         <div class="screenshot-img-wrapper">
-          <img src="assets/images/blog/2026.4.25.2/client-review-jadeite.webp" alt="Client review - decorative stone product showcase" loading="lazy" />
+          <img src="assets/images/blog/2026.4.25.2/client-review-jadeite.webp" alt="Client review - decorative stone product showcase" loading="lazy" onclick="openLightbox(this.src);" />
         </div>
         <div class="screenshot-caption">
           <div class="stars">★★★★★</div>
@@ -348,7 +348,7 @@
       <!-- Review 2: Honest Quotation -->
       <div class="testimonial-card testimonial-screenshot-card">
         <div class="screenshot-img-wrapper">
-          <img src="assets/images/blog/2026.4.25.2/client-review-quotation.webp" alt="Client review - honest quotation vs overpriced quote" loading="lazy" />
+          <img src="assets/images/blog/2026.4.25.2/client-review-quotation.webp" alt="Client review - honest quotation vs overpriced quote" loading="lazy" onclick="openLightbox(this.src);" />
         </div>
         <div class="screenshot-caption">
           <div class="stars">★★★★★</div>
@@ -359,7 +359,7 @@
       <!-- Review 3: Typhoon Care & Shipment Update -->
       <div class="testimonial-card testimonial-screenshot-card">
         <div class="screenshot-img-wrapper">
-          <img src="assets/images/blog/2026.4.25.2/client-review-typhoon-care.webp" alt="Client review - typhoon care and shipment update" loading="lazy" />
+          <img src="assets/images/blog/2026.4.25.2/client-review-typhoon-care.webp" alt="Client review - typhoon care and shipment update" loading="lazy" onclick="openLightbox(this.src);" />
         </div>
         <div class="screenshot-caption">
           <div class="stars">★★★★★</div>
@@ -370,7 +370,7 @@
       <!-- Review 4: Packing List & Service Appreciation -->
       <div class="testimonial-card testimonial-screenshot-card">
         <div class="screenshot-img-wrapper">
-          <img src="assets/images/blog/2026.4.25.2/client-review-packing-list.webp" alt="Client review - packing list service appreciation" loading="lazy" />
+          <img src="assets/images/blog/2026.4.25.2/client-review-packing-list.webp" alt="Client review - packing list service appreciation" loading="lazy" onclick="openLightbox(this.src);" />
         </div>
         <div class="screenshot-caption">
           <div class="stars">★★★★★</div>
@@ -381,11 +381,22 @@
       <!-- Review 5: Best Agent Praise -->
       <div class="testimonial-card testimonial-screenshot-card">
         <div class="screenshot-img-wrapper">
-          <img src="assets/images/blog/2026.4.25.2/client-review-best-karsa.webp" alt="Client review - you are the best Karsa" loading="lazy" />
+          <img src="assets/images/blog/2026.4.25.2/client-review-best-karsa.webp" alt="Client review - you are the best Karsa" loading="lazy" onclick="openLightbox(this.src);" />
         </div>
         <div class="screenshot-caption">
           <div class="stars">★★★★★</div>
           <p>"I consider myself very lucky to have known you. You are the best Karsa!" — After comparing with other agents, this client chose us as their long-term partner.</p>
+          <div class="testimonial-source"><i class="fab fa-whatsapp"></i> WhatsApp Conversation</div>
+        </div>
+      </div>
+      <!-- Review 6: Professional & Sincere Service -->
+      <div class="testimonial-card testimonial-screenshot-card">
+        <div class="screenshot-img-wrapper">
+          <img src="assets/images/blog/2026.4.25.2/Youworkprofessionallyandsincerely.webp" alt="Client review - you work professionally and sincerely" loading="lazy" onclick="openLightbox(this.src);" />
+        </div>
+        <div class="screenshot-caption">
+          <div class="stars">★★★★★</div>
+          <p>"You work professionally and sincerely. I want to refer you to my contacts. Many of them need a good agent like you." — A client who trusts us enough to refer us to their network.</p>
           <div class="testimonial-source"><i class="fab fa-whatsapp"></i> WhatsApp Conversation</div>
         </div>
       </div>
@@ -514,5 +525,22 @@
 </a>
 
 <script src="assets/main.js"></script>
+
+<!-- Lightbox -->
+<div class="lightbox-overlay" id="lightbox" onclick="closeLightbox();">
+  <span class="lightbox-close" onclick="closeLightbox();">&times;</span>
+  <img id="lightbox-img" src="" alt="Enlarged review" />
+</div>
+<script>
+function openLightbox(src) {
+  document.getElementById('lightbox-img').src = src;
+  document.getElementById('lightbox').classList.add('active');
+  document.body.style.overflow = 'hidden';
+}
+function closeLightbox() {
+  document.getElementById('lightbox').classList.remove('active');
+  document.body.style.overflow = '';
+}
+</script>
 </body>
 </html>

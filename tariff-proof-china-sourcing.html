@@ -348,30 +348,42 @@
       line-height: 1.55;
       margin: 0;
     }
-    /* ── Photo section ── */
-    .photo-trio {
+    /* ── Photo gallery ── */
+    .photo-gallery {
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-      gap: 16px;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 24px;
       margin: 40px 0;
     }
-    .photo-trio .photo-item {
-      border-radius: 12px;
+    .photo-gallery .photo-item {
+      border-radius: 14px;
       overflow: hidden;
-      box-shadow: 0 4px 18px rgba(0,0,0,0.1);
+      box-shadow: 0 6px 24px rgba(0,0,0,0.10);
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+      background: #fff;
     }
-    .photo-trio .photo-item img {
+    .photo-gallery .photo-item:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 12px 40px rgba(0,0,0,0.15);
+    }
+    .photo-gallery .photo-item img {
       width: 100%;
       height: 240px;
       object-fit: cover;
       display: block;
     }
-    .photo-trio .photo-item .photo-label {
-      padding: 10px 14px;
+    .photo-gallery .photo-item .photo-label {
+      padding: 14px 18px;
       background: #fff;
-      font-size: 0.85rem;
-      color: #666;
+      font-size: 0.88rem;
+      color: #555;
       font-style: italic;
+      line-height: 1.5;
+      border-top: 1px solid #f0f0f0;
+    }
+    @media (max-width: 640px) {
+      .photo-gallery { grid-template-columns: 1fr; }
+      .photo-gallery .photo-item img { height: 200px; }
     }
     /* ── Testimonials ── */
     .testimonial-grid {
@@ -660,7 +672,7 @@
   <div class="container">
     <h2 class="lp-title">Real Work. Real Results.</h2>
     <p class="lp-sub">Not stock photos — these are actual photos from our recent operations, showing exactly how we serve our clients on the ground in China.</p>
-    <div class="photo-trio">
+    <div class="photo-gallery">
       <div class="photo-item">
         <img src="assets/images/blog/2026.4.22/karsa-warehouse-inspection.webp" alt="Karsa inspecting client goods in warehouse before shipment" />
         <div class="photo-label">Pre-shipment quality inspection — Guangdong warehouse</div>
@@ -672,6 +684,10 @@
       <div class="photo-item">
         <img src="assets/images/blog/2026.4.22/karsa-huaqiangbei.webp" alt="Karsa at Huaqiangbei electronics market, Shenzhen" />
         <div class="photo-label">Huaqiangbei electronics market, Shenzhen — sourcing components directly</div>
+      </div>
+      <div class="photo-item">
+        <img src="assets/images/blog/2026.4.22/shipping-for-client-2.webp" alt="Karsa preparing another client order for overseas shipment" />
+        <div class="photo-label">Another order ready for international shipment — every package inspected and documented</div>
       </div>
     </div>
     <div style="margin-top:28px;max-width:760px;margin-left:auto;margin-right:auto;">
@@ -763,10 +779,6 @@
           <p>The USTR regularly reviews exclusion applications for specific product categories. A trade attorney can identify if your products qualify — this can eliminate tariffs entirely on eligible items.</p>
         </div>
       </div>
-    </div>
-    <div style="text-align:center;margin-top:44px;">
-      <img src="assets/images/blog/2026.4.22/shipping-for-client-2.webp" alt="Karsa preparing another client order for overseas shipment" style="max-width:640px;width:100%;border-radius:12px;box-shadow:0 8px 30px rgba(0,0,0,0.3);" />
-      <p style="color:rgba(255,255,255,0.5);font-size:0.85rem;margin-top:10px;font-style:italic;">Another order ready for international shipment — every package inspected and documented</p>
     </div>
   </div>
 </section>
