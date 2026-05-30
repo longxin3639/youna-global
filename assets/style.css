@@ -1679,13 +1679,22 @@ a { text-decoration: none; color: inherit; }
   border-left-color: var(--primary); font-weight: 600;
 }
 .cat-nav-list .cat-icon {
-  width: 28px; height: 28px; border-radius: 8px;
+  width: 32px; height: 32px; border-radius: 10px;
   display: flex; align-items: center; justify-content: center;
   font-size: 0.85rem; background: var(--bg-gray); flex-shrink: 0;
+  overflow: hidden;
+}
+.cat-nav-list .cat-icon img {
+  width: 100%; height: 100%;
+  object-fit: cover;
 }
 .cat-nav-list a.active .cat-icon,
 .cat-nav-list a:hover .cat-icon {
   background: var(--primary); color: #fff;
+}
+.cat-nav-list a.active .cat-icon:has(img),
+.cat-nav-list a:hover .cat-icon:has(img) {
+  background: transparent; color: inherit;
 }
 .cat-nav-count {
   margin-left: auto; font-size: 0.75rem; color: var(--muted);
@@ -1700,9 +1709,15 @@ a { text-decoration: none; color: inherit; }
 }
 .category-hero-icon {
   width: 72px; height: 72px; border-radius: 20px;
-  background: var(--primary); color: #fff;
+  background: #fff;
   display: flex; align-items: center; justify-content: center;
   font-size: 2rem; flex-shrink: 0;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+}
+.category-hero-icon img {
+  width: 100%; height: 100%;
+  object-fit: cover;
 }
 .category-hero h1 {
   font-size: 1.6rem; font-weight: 800; color: var(--dark); margin-bottom: 4px;
