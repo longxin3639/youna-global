@@ -1,10 +1,5 @@
 {
   "pending": [
-    "https://www.youna-global.com/landing/sourcing-agent-amazon.html",
-    "https://www.youna-global.com/landing/quality-control-china.html",
-    "https://www.youna-global.com/landing/shipping-from-china.html",
-    "https://www.youna-global.com/landing/private-label-china.html",
-    "https://www.youna-global.com/landing/dropshipping-china.html",
     "https://www.youna-global.com/landing/product-sourcing-agent.html",
     "https://www.youna-global.com/landing/china-trade-show.html",
     "https://www.youna-global.com/landing/china-factory-visit.html",
@@ -48,7 +43,12 @@
     "https://www.youna-global.com/blog/blog-sihui-jade-market.html",
     "https://www.youna-global.com/blog/blog-canton-fair-guide.html",
     "https://www.youna-global.com/blog/blog-china-plus-one-vs-china-only-2026.html",
-    "https://www.youna-global.com/landing/china-buying-agent.html"
+    "https://www.youna-global.com/landing/china-buying-agent.html",
+    "https://www.youna-global.com/landing/sourcing-agent-amazon.html",
+    "https://www.youna-global.com/landing/quality-control-china.html",
+    "https://www.youna-global.com/landing/shipping-from-china.html",
+    "https://www.youna-global.com/landing/private-label-china.html",
+    "https://www.youna-global.com/landing/dropshipping-china.html"
   ],
   "batch_size": 8
 }
