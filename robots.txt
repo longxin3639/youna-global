@@ -2,4 +2,31 @@ User-agent: *
 Disallow: /admin/
 Disallow: /private/
 
+# --- AI assistants & answer engines: explicitly welcome ---
+# Youna Global gets high-quality B2B traffic from AI assistants (e.g. ChatGPT).
+# The rules below make clear these crawlers are allowed to read the site.
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
 Sitemap: https://www.youna-global.com/sitemap.xml
