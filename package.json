@@ -1,0 +1,27 @@
+{
+  "name": "youna-global",
+  "version": "1.0.0",
+  "description": "Youna Global - Professional China sourcing agent website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/longxin3639/youna-global.git"
+  },
+  "keywords": [
+    "china-sourcing",
+    "sourcing-agent",
+    "vercel"
+  ],
+  "author": "Youna Global",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/longxin3639/youna-global/issues"
+  },
+  "homepage": "https://github.com/longxin3639/youna-global#readme",
+  "dependencies": {
+    "@vercel/speed-insights": "^2.0.0"
+  }
+}
