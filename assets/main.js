@@ -1,5 +1,14 @@
 // Youna Global - Main JS
 
+// Vercel Speed Insights — injected once here, covers all pages that load main.js
+window.si = window.si || function () { (window.siq = window.siq || []).push(arguments); };
+(function () {
+  var s = document.createElement('script');
+  s.defer = true;
+  s.src = '/_vercel/speed-insights/script.js';
+  document.head.appendChild(s);
+})();
+
 // Mobile nav toggle
 (function() {
   'use strict';
