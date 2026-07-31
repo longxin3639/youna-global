@@ -10,14 +10,14 @@ PHONE = "8619898484442"
 # shared section texts
 WHO = [
     ("Pet Boutiques", "fas fa-store", "Stock a cohesive original cat-fashion line with pieces your competitors cannot source from open commodity platforms. High-margin, photo-ready, and exclusive to your catalog."),
-    ("Amazon & Shopify Sellers", "fas fa-shopping-cart", "Premium cat outfits with strong listing photos and a clear 'original design' story. Small, light, and easy to ship via FBA — ideal for differentiated SKUs."),
+    ("Amazon & Shopify Sellers", "fas fa-shopping-cart", "Premium cat outfits with strong listing photos and a clear 'original design' story. Small, light, and easy to ship via FBA - ideal for differentiated SKUs."),
     ("Pet Influencers & Creators", "fas fa-camera", "Outfits built for the camera: structured hats, tactile fabrics, and coordinated accessories that read instantly in thumbnails and Reels. Great for sponsored content."),
-    ("Gift & Specialty Shops", "fas fa-gift", "Birthday, holiday, and 'just because' purchases for doting cat parents. The drama and detail make an unforgettable present — and a high average order value."),
+    ("Gift & Specialty Shops", "fas fa-gift", "Birthday, holiday, and 'just because' purchases for doting cat parents. The drama and detail make an unforgettable present - and a high average order value."),
     ("Private Label Brands", "fas fa-tags", "Add your logo tag, custom colorway, and branded hangtag. We help you build a complete cat-apparel line with consistent quality and a real design point of view."),
     ("Photo Studios & Event Stylists", "fas fa-images", "Wedding, holiday, and portrait sessions need a 'wow' cat look. Our gowns and gothic pieces deliver editorial results with minimal styling effort."),
 ]
 
-PACKAGE_NOTE = "Retail prices are estimates based on comparable premium cat outfits on Amazon US, Chewy, and Etsy. Cat apparel is a high-margin pet category — small, light, and cheap to ship."
+PACKAGE_NOTE = "Retail prices are estimates based on comparable premium cat outfits on Amazon US, Chewy, and Etsy. Cat apparel is a high-margin pet category - small, light, and cheap to ship."
 
 products = [
 {
@@ -25,14 +25,14 @@ products = [
  "price_low":"14.00","price_high":"18.00",
  "main":"silver-quilted-vest-cat.webp","t1":"white-victorian-gown-cat.webp","t2":"black-gothic-dress-cat.webp",
  "title":"Silver Quilted Vest Set for Cats | Original Designer Cat Clothing | Youna Global",
- "meta":"Wholesale original designer silver quilted vest set for cats — quilted vest, white shirt & wide-brim hat. MOQ 200 pcs from $14. Factory-direct original cat fashion from Youna Global.",
- "short":"A tailored silver quilted vest paired with a crisp white shirt and a sculpted wide-brim hat — a couture daywear look engineered for the discerning cat. An original Youna design, built for boutique shelves and camera-ready content alike.",
+ "meta":"Wholesale original designer silver quilted vest set for cats - quilted vest, white shirt & wide-brim hat. MOQ 200 pcs from $14. Factory-direct original cat fashion from Youna Global.",
+ "short":"A tailored silver quilted vest paired with a crisp white shirt and a sculpted wide-brim hat - a couture daywear look engineered for the discerning cat. An original Youna design, built for boutique shelves and camera-ready content alike.",
  "specs":[
    ["Material","Quilted poly-cotton shell with light padding; inner shirt in soft cotton poplin; hat in molded felt"],
-   ["Size Range","XS (2–3 kg) · S (3–4 kg) · M (4–5 kg) · L (5–6.5 kg)"],
+   ["Size Range","XS (2-3 kg) - S (3-4 kg) - M (4-5 kg) - L (5-6.5 kg)"],
    ["Colors / Variants","Silver + White (as shown); custom colorways available on MOQ"],
    ["MOQ","200 pcs per colorway"],
-   ["Lead Time","12–20 days after sample approval; sample in 5–7 days"],
+   ["Lead Time","12-20 days after sample approval; sample in 5-7 days"],
    ["Customization","Woven logo tag, custom color, custom hangtag"],
    ["Packaging","Individual OPP bag with branded hangtag; master carton for wholesale"],
    ["Care","Hand wash cold or gentle cycle only; reshape and line dry; do not bleach"],
@@ -41,14 +41,14 @@ products = [
    ["Original Atelier Silhouette","Our in-house design team developed the quilted vest and wide-brim hat as a single coordinated set, not a cobbled-together costume. The proportions are tuned to the feline frame so the look reads as fashion, not dress-up."],
    ["Lightweight Quilted Warmth","A thin poly-cotton padding gives the vest its structured, luxe hand-feel without weighing the cat down. Your customers get a premium garment their pets will actually tolerate wearing."],
    ["Photo-Ready in Seconds","The molded wide-brim hat holds its shape and frames the face for instant social content. It is ideal for in-store displays and styled shoots where a clean, metallic look sells."],
-   ["Comfort-First Inner Shirt","The white shirt uses a soft cotton poplin with a forgiving neck opening and a quiet back closure. No scratchy seams against the fur — just a clean base layer under the vest."],
+   ["Comfort-First Inner Shirt","The white shirt uses a soft cotton poplin with a forgiving neck opening and a quiet back closure. No scratchy seams against the fur - just a clean base layer under the vest."],
    ["Wholesale-Ready Construction","Every set is finished to consistent B2B tolerances: matched trims, reinforced stitch lines, and a uniform size run. Order 200 and receive a shelf-ready, repeatable product."],
  ],
  "faqs":[
-   ["How do I choose the right size for a cat?","Measure the cat's chest girth and weight, then match to our XS–L run (2–6.5 kg). When between sizes, size up for comfort and easier dressing."],
+   ["How do I choose the right size for a cat?","Measure the cat's chest girth and weight, then match to our XS-L run (2-6.5 kg). When between sizes, size up for comfort and easier dressing."],
    ["Can I add my own brand logo?","Yes. On the 200-pc MOQ we weave or print your logo onto a sewn-in tag and can supply custom hangtags. Send your artwork with the order."],
-   ["What is the lead time including a sample?","Sample ships in 5–7 days; bulk production runs 12–20 days after you approve the sample. Plan roughly 3–4 weeks from artwork sign-off to shipment."],
-   ["How should the set be washed?","Hand wash cold or use a gentle machine cycle in a laundry bag. Reshape the hat and vest, then line dry flat — avoid bleach and tumble heat."],
+   ["What is the lead time including a sample?","Sample ships in 5-7 days; bulk production runs 12-20 days after you approve the sample. Plan roughly 3-4 weeks from artwork sign-off to shipment."],
+   ["How should the set be washed?","Hand wash cold or use a gentle machine cycle in a laundry bag. Reshape the hat and vest, then line dry flat - avoid bleach and tumble heat."],
    ["Is the hat secure on the cat's head?","The hat sits as a styled prop and is not strapped; most cats tolerate it briefly for photos. We recommend it for supervised wear and content shoots rather than all-day use."],
  ],
 },
@@ -58,13 +58,13 @@ products = [
  "main":"white-victorian-gown-cat.webp","t1":"white-victorian-collar-cat.webp","t2":"silver-quilted-vest-cat.webp",
  "title":"White Victorian Gown for Cats | Original Designer Cat Clothing | Youna Global",
  "meta":"Wholesale original white Victorian gown for cats with lace hood & crystal buttons. Floor-length luxury cat dress. MOQ 200 pcs from $16. Factory-direct from Youna Global.",
- "short":"A floor-sweeping white Victorian gown with a lace hood and crystal-button front — a heritage-inspired statement piece from our original cat atelier. Designed for the luxury pet market where drama and detail sell.",
+ "short":"A floor-sweeping white Victorian gown with a lace hood and crystal-button front - a heritage-inspired statement piece from our original cat atelier. Designed for the luxury pet market where drama and detail sell.",
  "specs":[
    ["Material","Satin-finish polyester bodice with lace hood trim; resin crystal buttons; soft lining"],
-   ["Size Range","XS (2–3 kg) · S (3–4 kg) · M (4–5 kg) · L (5–6.5 kg)"],
+   ["Size Range","XS (2-3 kg) - S (3-4 kg) - M (4-5 kg) - L (5-6.5 kg)"],
    ["Colors / Variants","Ivory White (as shown); custom dye available on MOQ"],
    ["MOQ","200 pcs per colorway"],
-   ["Lead Time","12–20 days after sample approval; sample in 5–7 days"],
+   ["Lead Time","12-20 days after sample approval; sample in 5-7 days"],
    ["Customization","Logo tag, custom color, custom button finish"],
    ["Packaging","Individual OPP bag with hangtag; protective carton for wholesale"],
    ["Care","Hand wash cold, line dry; steam lightly to refresh lace; do not wring"],
@@ -74,13 +74,13 @@ products = [
    ["Hand-Set Crystal Buttons","Each resin crystal button is stitched for a secure, glinting closure down the front. The detail photographs beautifully and signals luxury at the shelf and in listings."],
    ["Floor-Length Drama","The long skirt drapes to the floor for portrait and event styling. Retailers use it for weddings, holidays, and premium photo packages where a white gown earns its keep."],
    ["Lined for Comfort","A soft inner lining keeps the satin off the coat and a hidden back closure makes dressing calm and quick. The hood is decorative and sits loose around the head."],
-   ["Boutique Margin Builder","As an original Youna design, the gown is exclusive to your catalog — no mass-market duplicate on open commodity platforms. That exclusivity supports stronger retail pricing for your store or brand."],
+   ["Boutique Margin Builder","As an original Youna design, the gown is exclusive to your catalog - no mass-market duplicate on open commodity platforms. That exclusivity supports stronger retail pricing for your store or brand."],
  ],
  "faqs":[
-   ["What cat sizes does the gown fit?","XS through L covers 2–6.5 kg. Because the gown is long, prioritize chest girth and back length; size up if your cat is between bands."],
+   ["What cat sizes does the gown fit?","XS through L covers 2-6.5 kg. Because the gown is long, prioritize chest girth and back length; size up if your cat is between bands."],
    ["Is the lace hood comfortable for the cat?","The hood is an open, decorative frame that rests around the head without tightening. It is best for short, supervised wear and photography."],
-   ["Can the gown be custom-colored or branded?","Yes — on the 200-pc MOQ we offer custom dye and a sewn logo tag. Discuss your palette and artwork with our team at order time."],
-   ["How long is production including a sample?","Sample in 5–7 days, bulk in 12–20 days after approval. Most orders ship within a month of artwork confirmation."],
+   ["Can the gown be custom-colored or branded?","Yes - on the 200-pc MOQ we offer custom dye and a sewn logo tag. Discuss your palette and artwork with our team at order time."],
+   ["How long is production including a sample?","Sample in 5-7 days, bulk in 12-20 days after approval. Most orders ship within a month of artwork confirmation."],
    ["How do I care for the lace and buttons?","Hand wash cold and line dry; reshape the lace while damp and steam on low if needed. Keep crystals away from harsh detergents."],
  ],
 },
@@ -90,13 +90,13 @@ products = [
  "main":"grey-velvet-waistcoat-cat.webp","t1":"black-gothic-dress-cat.webp","t2":"floral-garden-dress-cat.webp",
  "title":"Grey Velvet Waistcoat for Cats | Original Designer Cat Clothing | Youna Global",
  "meta":"Wholesale original grey velvet waistcoat for cats with faux-pearl necklace, bow & beret. Photo-ready gentleman cat outfit. MOQ 200 pcs from $12. Factory-direct from Youna Global.",
- "short":"A dark grey velvet waistcoat anchored by a faux-pearl necklace, an oversized bow, and a Parisian beret — our most photogenic gentleman look. An original Youna design that turns a calm cat into a cover shot.",
+ "short":"A dark grey velvet waistcoat anchored by a faux-pearl necklace, an oversized bow, and a Parisian beret - our most photogenic gentleman look. An original Youna design that turns a calm cat into a cover shot.",
  "specs":[
    ["Material","Polyester velvet waistcoat; faux-pearl strand; grosgrain bow; molded beret"],
-   ["Size Range","XS (2–3 kg) · S (3–4 kg) · M (4–5 kg) · L (5–6.5 kg)"],
+   ["Size Range","XS (2-3 kg) - S (3-4 kg) - M (4-5 kg) - L (5-6.5 kg)"],
    ["Colors / Variants","Dark Grey (as shown); custom velvet color on MOQ"],
    ["MOQ","200 pcs per colorway"],
-   ["Lead Time","12–20 days after sample approval; sample in 5–7 days"],
+   ["Lead Time","12-20 days after sample approval; sample in 5-7 days"],
    ["Customization","Logo tag, custom color, custom bow"],
    ["Packaging","Individual OPP bag with hangtag; master carton for wholesale"],
    ["Care","Spot clean or hand wash cold; lay flat to dry; do not tumble dry"],
@@ -109,10 +109,10 @@ products = [
    ["Exclusive Atelier SKU","Original to Youna's cat line, the waistcoat has no commodity-market twin. That protects your margin and gives your boutique or brand a distinctive hero piece."],
  ],
  "faqs":[
-   ["Which cats fit the waistcoat?","XS–L suits 2–6.5 kg. Measure chest girth; the back closure gives a little adjustment, but size up if your cat is broad-chested."],
+   ["Which cats fit the waistcoat?","XS-L suits 2-6.5 kg. Measure chest girth; the back closure gives a little adjustment, but size up if your cat is broad-chested."],
    ["Is the pearl necklace safe if a cat chews it?","The strand is decorative and not chew-proof. We classify the whole set as supervised, photo-and-event wear, not unattended daily use."],
    ["What customization is possible at MOQ?","At 200 pcs we add your logo tag, offer custom velvet colors, and can swap the bow style or color to match your brand."],
-   ["How fast can I get stock?","Sample in 5–7 days, bulk in 12–20 days post-approval. Confirm artwork early to keep the full cycle near four weeks."],
+   ["How fast can I get stock?","Sample in 5-7 days, bulk in 12-20 days post-approval. Confirm artwork early to keep the full cycle near four weeks."],
    ["Can the velvet be machine washed?","Spot clean preferred; if needed, hand wash cold and lay flat to dry. Avoid tumble drying, which flattens the pile."],
  ],
 },
@@ -122,13 +122,13 @@ products = [
  "main":"floral-garden-dress-cat.webp","t1":"white-victorian-collar-cat.webp","t2":"grey-velvet-waistcoat-cat.webp",
  "title":"Floral Garden Dress for Cats | Original Designer Cat Clothing | Youna Global",
  "meta":"Wholesale original black-and-white floral garden dress for cats with sunhat. Fresh daytime cat outfit. MOQ 200 pcs from $13. Factory-direct original design from Youna Global.",
- "short":"A black-and-white floral dress crowned by a wide sunhat, composed for the garden and the feed alike — a fresh, feminine original from Youna's cat atelier. A versatile daytime SKU that pairs storytelling with strong shelf appeal.",
+ "short":"A black-and-white floral dress crowned by a wide sunhat, composed for the garden and the feed alike - a fresh, feminine original from Youna's cat atelier. A versatile daytime SKU that pairs storytelling with strong shelf appeal.",
  "specs":[
    ["Material","Floral-print poly-cotton dress; straw-style sunhat; soft lining"],
-   ["Size Range","XS (2–3 kg) · S (3–4 kg) · M (4–5 kg) · L (5–6.5 kg)"],
+   ["Size Range","XS (2-3 kg) - S (3-4 kg) - M (4-5 kg) - L (5-6.5 kg)"],
    ["Colors / Variants","Black/White Floral (as shown); custom print on MOQ"],
    ["MOQ","200 pcs per colorway"],
-   ["Lead Time","12–20 days after sample approval; sample in 5–7 days"],
+   ["Lead Time","12-20 days after sample approval; sample in 5-7 days"],
    ["Customization","Logo tag, custom print, custom hat trim"],
    ["Packaging","Individual OPP bag with hangtag; master carton for wholesale"],
    ["Care","Hand wash cold, line dry; iron lining on low; do not bleach"],
@@ -137,14 +137,14 @@ products = [
    ["Garden-Scene Original","The black-and-white floral motif and wide sunhat were composed together for an outdoor, editorial feel. It is a complete look, designed to read instantly as garden party in any listing."],
    ["Breathable Day Dress","The poly-cotton print is light and airy for warmer indoor or event wear. A soft lining and simple back closure keep dressing quick and the cat comfortable."],
    ["Hat That Frames the Face","The sunhat's brim shades and frames the face for charming, high-contrast photos. As with our other hats, it is a styled prop best used for supervised wear."],
-   ["Print Consistency for Resellers","We hold the floral artwork to tight B2B tolerances so every batch matches. Your customers receive the same dress they saw online — protecting your reviews."],
+   ["Print Consistency for Resellers","We hold the floral artwork to tight B2B tolerances so every batch matches. Your customers receive the same dress they saw online - protecting your reviews."],
    ["Story-Driven Merchandising","The garden narrative gives boutiques a built-in content angle: seasonal displays, spring promotions, and pet-influencer shoots. Exclusive to Youna, it stays off commodity marketplaces."],
  ],
  "faqs":[
-   ["What sizes are available?","XS through L for cats 2–6.5 kg. Match chest girth and weight; size up between bands for an easier fit."],
+   ["What sizes are available?","XS through L for cats 2-6.5 kg. Match chest girth and weight; size up between bands for an easier fit."],
    ["Is the floral print exclusive?","The artwork is an original Youna design and not listed on open commodity platforms, so your store keeps a differentiated SKU at the 200-pc MOQ."],
    ["Can I request a custom print or hat trim?","Yes. On MOQ we can run a custom floral or solid print and adjust the hat trim to your brand palette. Share references at order time."],
-   ["What is the production timeline?","Sample in 5–7 days; bulk in 12–20 days after sample sign-off. Budget about three to four weeks from artwork approval to shipment."],
+   ["What is the production timeline?","Sample in 5-7 days; bulk in 12-20 days after sample sign-off. Budget about three to four weeks from artwork approval to shipment."],
    ["How should the dress and hat be cleaned?","Hand wash cold and line dry; the hat keeps its shape better if wiped rather than submerged. Avoid bleach to protect the print."],
  ],
 },
@@ -154,29 +154,29 @@ products = [
  "main":"black-gothic-dress-cat.webp","t1":"white-victorian-gown-cat.webp","t2":"grey-velvet-waistcoat-cat.webp",
  "title":"Black Gothic Dress for Cats | Original Designer Cat Clothing | Youna Global",
  "meta":"Wholesale original black sheer gothic dress for cats with lace hat & pink bow. Editorial alternative cat outfit. MOQ 200 pcs from $15. Factory-direct from Youna Global.",
- "short":"A black sheer gothic dress with a lace hat and a single pink-bow accent — a moody, editorial original from Youna's cat atelier. Built for the alternative-leaning pet market where a strong point of view drives the sale.",
+ "short":"A black sheer gothic dress with a lace hat and a single pink-bow accent - a moody, editorial original from Youna's cat atelier. Built for the alternative-leaning pet market where a strong point of view drives the sale.",
  "specs":[
    ["Material","Sheer mesh polyester overlay with solid lining; lace hat; grosgrain pink bow"],
-   ["Size Range","XS (2–3 kg) · S (3–4 kg) · M (4–5 kg) · L (5–6.5 kg)"],
+   ["Size Range","XS (2-3 kg) - S (3-4 kg) - M (4-5 kg) - L (5-6.5 kg)"],
    ["Colors / Variants","Black + Pink Bow (as shown); custom bow/trim on MOQ"],
    ["MOQ","200 pcs per colorway"],
-   ["Lead Time","12–20 days after sample approval; sample in 5–7 days"],
+   ["Lead Time","12-20 days after sample approval; sample in 5-7 days"],
    ["Customization","Logo tag, custom bow color, custom trim"],
    ["Packaging","Individual OPP bag with hangtag; master carton for wholesale"],
    ["Care","Hand wash cold, delicate; line dry; do not wring the mesh"],
  ],
  "features":[
    ["Sheer Gothic Layer","The dress pairs a solid lining with a sheer mesh overlay for a layered, shadowed look that photographs with depth. It is a deliberate fashion statement, not a novelty costume."],
-   ["Lace Hat & Pink Accent","A lace-trim hat and one crisp pink bow create the collection's signature contrast — dark with a single soft note. The combo is instantly recognizable in thumbnails and feeds."],
+   ["Lace Hat & Pink Accent","A lace-trim hat and one crisp pink bow create the collection's signature contrast - dark with a single soft note. The combo is instantly recognizable in thumbnails and feeds."],
    ["Editorial Photo Potential","The sheer fabric and lace read as high-fashion on camera, giving resellers premium content with minimal styling. Ideal for alternative boutiques, photo studios, and themed seasonal drops."],
    ["Lined for Wearability","Under the mesh, a soft lining keeps the dress from sticking to fur and a back closure makes dressing calm. Legs stay free so the cat moves naturally during short sessions."],
    ["Differentiated Subculture SKU","As an original Youna design, the gothic dress targets a niche with little commodity competition. That focus supports higher retail pricing and loyal, repeat buyers."],
  ],
  "faqs":[
-   ["What cat sizes does the gothic dress cover?","XS–L for 2–6.5 kg. Check chest girth and back length; the sheer overlay has some give, but size up between bands."],
+   ["What cat sizes does the gothic dress cover?","XS-L for 2-6.5 kg. Check chest girth and back length; the sheer overlay has some give, but size up between bands."],
    ["Is the sheer mesh fragile?","The mesh is a delicate fashion fabric, so we recommend hand washing and supervised wear. It is styled for events and photos rather than rough daily use."],
-   ["Can I change the bow or hat trim color?","Yes — at the 200-pc MOQ we can recolor the bow and adjust trims to your brand. The classic black-plus-pink is also available as shown."],
-   ["How long until I receive stock?","Sample in 5–7 days, bulk in 12–20 days after approval. Most orders land within roughly a month of artwork confirmation."],
+   ["Can I change the bow or hat trim color?","Yes - at the 200-pc MOQ we can recolor the bow and adjust trims to your brand. The classic black-plus-pink is also available as shown."],
+   ["How long until I receive stock?","Sample in 5-7 days, bulk in 12-20 days after approval. Most orders land within roughly a month of artwork confirmation."],
    ["How do I wash the mesh and lace?","Hand wash cold on delicate, do not wring, and line dry away from heat. Store flat to keep the lace hat from creasing."],
  ],
 },
@@ -186,29 +186,29 @@ products = [
  "main":"white-victorian-collar-cat.webp","t1":"floral-garden-dress-cat.webp","t2":"white-victorian-gown-cat.webp",
  "title":"White Victorian Collar Dress for Cats | Original Designer Cat Clothing | Youna Global",
  "meta":"Wholesale original white Victorian collar dress for cats with gold buttons & matching leash. Walk-ready luxury cat outfit. MOQ 200 pcs from $15. Factory-direct from Youna Global.",
- "short":"A white Victorian dress defined by a gold-button high collar and a matching leash — a refined, walk-ready original from Youna's cat atelier. The only look in the collection engineered for both the lens and the leash.",
+ "short":"A white Victorian dress defined by a gold-button high collar and a matching leash - a refined, walk-ready original from Youna's cat atelier. The only look in the collection engineered for both the lens and the leash.",
  "specs":[
    ["Material","Satin-finish polyester dress; metal-look gold buttons; nylon matching leash"],
-   ["Size Range","XS (2–3 kg) · S (3–4 kg) · M (4–5 kg) · L (5–6.5 kg)"],
+   ["Size Range","XS (2-3 kg) - S (3-4 kg) - M (4-5 kg) - L (5-6.5 kg)"],
    ["Colors / Variants","White + Gold (as shown); custom color/leash on MOQ"],
    ["MOQ","200 pcs per colorway"],
-   ["Lead Time","12–20 days after sample approval; sample in 5–7 days"],
+   ["Lead Time","12-20 days after sample approval; sample in 5-7 days"],
    ["Customization","Logo tag, custom color, custom leash branding"],
    ["Packaging","Individual OPP bag with hangtag; master carton for wholesale"],
    ["Care","Hand wash cold, line dry; wipe leash with damp cloth; do not tumble dry"],
  ],
  "features":[
-   ["Signature Gold Collar","The high Victorian collar closes with metal-look gold buttons for a jewelry-like finish. It is the dress's hero detail — instantly premium in photos and on the shelf."],
+   ["Signature Gold Collar","The high Victorian collar closes with metal-look gold buttons for a jewelry-like finish. It is the dress's hero detail - instantly premium in photos and on the shelf."],
    ["Matching Leash Included","Unlike our other sets, this dress ships with a coordinated leash for true walk-ready styling. Resellers can merchandise it as an outfit plus accessory, lifting average order value."],
    ["Victorian Craft Lines","Pintuck-style seams and a satin finish echo heritage tailoring, re-cut for the feline form. The result is a design piece that reads as couture, not a party onesie."],
    ["Comfortable for Short Walks","A soft lining and back closure keep the dress calm to wear; the leash attaches to your cat's own harness worn underneath. Best for supervised outings and content, not all-day wear."],
    ["Complete Outfit SKU","As an original Youna design with an included accessory, the collar dress is a self-contained hero product. Exclusive to your catalog, it strengthens both margin and brand story."],
  ],
  "faqs":[
-   ["What sizes fit this dress?","XS through L for cats 2–6.5 kg. Prioritize chest girth; the collar has light adjustability but size up if between bands."],
+   ["What sizes fit this dress?","XS through L for cats 2-6.5 kg. Prioritize chest girth; the collar has light adjustability but size up if between bands."],
    ["How does the leash work with the dress?","The leash is a styled match to the outfit and clips to your cat's separate harness worn underneath. We do not recommend it as the primary restraint for strong pullers."],
    ["Can the collar buttons or leash be branded?","At the 200-pc MOQ we add your logo tag and can brand or recolor the leash to match your line. Gold buttons are fixed as shown unless arranged otherwise."],
-   ["What is the lead time with a sample?","Sample in 5–7 days; bulk in 12–20 days after approval. Plan roughly three to four weeks from artwork sign-off to shipment."],
+   ["What is the lead time with a sample?","Sample in 5-7 days; bulk in 12-20 days after approval. Plan roughly three to four weeks from artwork sign-off to shipment."],
    ["How do I care for the dress and leash?","Hand wash the dress cold and line dry; wipe the nylon leash with a damp cloth. Avoid tumble drying, which can dull the satin."],
  ],
 },
@@ -293,7 +293,7 @@ def img(path): return IMG + "/" + path
 
 for p in products:
     specs_html = "".join('<tr><th>{}</th><td>{}</td></tr>'.format(k,v) for k,v in p["specs"])
-    feats = list(p["features"]) + [["Sized for the Feline Frame","Our XS–L run is mapped to cat weight (2–6.5 kg), not dog or human sizing, so the fit is right the first time and returns stay low."]]
+    feats = list(p["features"]) + [["Sized for the Feline Frame","Our XS-L run is mapped to cat weight (2-6.5 kg), not dog or human sizing, so the fit is right the first time and returns stay low."]]
     feats_html = "".join('<div class="pdp-feature"><div class="pdp-feature-icon"><i class="fas fa-gem"></i></div><h3>{}</h3><p>{}</p></div>'.format(t,d) for t,d in feats)
     faqs_html = "".join('<div class="pdp-faq-item"><h4>{}</h4><p>{}</p></div>'.format(q,a) for q,a in p["faqs"])
     who_html = "".join('<div class="pdp-feature"><div class="pdp-feature-icon"><i class="{}"></i></div><h3>{}</h3><p>{}</p></div>'.format(ic,t,d) for t,ic,d in WHO)
@@ -305,7 +305,7 @@ for p in products:
     for o in others:
         rel += '''      <a href="{slug}.html" class="catalog-card">
         <img src="{img}" alt="{h1}" class="catalog-card-img" loading="lazy" />
-        <div class="catalog-card-body"><h3>{h1}</h3><div class="catalog-card-price">${lo} – ${hi} <span class="unit">{unit}</span></div><div class="catalog-card-moq">MOQ: 200 pcs</div></div>
+        <div class="catalog-card-body"><h3>{h1}</h3><div class="catalog-card-price">${lo} - ${hi} <span class="unit">{unit}</span></div><div class="catalog-card-moq">MOQ: 200 pcs</div></div>
       </a>
 '''.format(slug=o["slug"], img=img(o["main"]), h1=o["h1"], lo=o["price_low"], hi=o["price_high"], unit=o["unit"])
     rel += '''      <a href="{blog}" class="catalog-card" style="border:2px solid var(--primary);">
@@ -317,7 +317,7 @@ for p in products:
     ld = {
       "@context":"https://schema.org",
       "@type":"Product",
-      "name": p["h1"] + " — Original Designer Cat Clothing",
+      "name": p["h1"] + " - Original Designer Cat Clothing",
       "description": p["short"],
       "brand": {"@type":"Brand","name":"Youna Global"},
       "offers": {
@@ -349,7 +349,7 @@ for p in products:
   <link rel="apple-touch-icon" href="../assets/LOGO2.png" />
   <link rel="stylesheet" href="../assets/style.css" />
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVJkEZSMUkrQ6usKNU8gohLG33uejR2hQjYegJoxxeVc4v1SGVYNQs6KVrgNInea0xfE5+NFMoQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  assets/font-awesome/css/all.min.css
   <script type="application/ld+json">
   {ld}
   </script>
@@ -395,7 +395,7 @@ for p in products:
           <span><i class="fas fa-cube"></i> In Stock</span>
           <span><i class="fas fa-tags"></i> MOQ: 200 pcs</span>
         </div>
-        <div class="pdp-price">${lo} – ${hi} <span class="unit">{unit}</span></div>
+        <div class="pdp-price">${lo} - ${hi} <span class="unit">{unit}</span></div>
         <p class="pdp-short-desc">{short}</p>
         <table class="pdp-spec-table">
           {specs}
@@ -413,10 +413,10 @@ for p in products:
   <div class="container">
     <h2 style="text-align:center;font-size:1.5rem;margin-bottom:32px;">How to Build Your Custom Cat Fashion Line</h2>
     <div class="pdp-features">
-      <div class="pdp-feature"><div class="pdp-feature-icon"><i class="fas fa-palette"></i></div><h3>1. Choose Colorways &amp; Sizes</h3><p>Pick from our standard palettes or send PMS / reference colors for custom dye. Select 2–4 sizes across our XS–L cat run to cover most breeds.</p></div>
-      <div class="pdp-feature"><div class="pdp-feature-icon"><i class="fas fa-pen-nib"></i></div><h3>2. Add Your Brand Logo</h3><p>We offer a sewn logo tag, custom hangtag, and printed branding. Send your AI or PDF artwork — our design team returns a free mockup within 24 hours.</p></div>
+      <div class="pdp-feature"><div class="pdp-feature-icon"><i class="fas fa-palette"></i></div><h3>1. Choose Colorways &amp; Sizes</h3><p>Pick from our standard palettes or send PMS / reference colors for custom dye. Select 2-4 sizes across our XS-L cat run to cover most breeds.</p></div>
+      <div class="pdp-feature"><div class="pdp-feature-icon"><i class="fas fa-pen-nib"></i></div><h3>2. Add Your Brand Logo</h3><p>We offer a sewn logo tag, custom hangtag, and printed branding. Send your AI or PDF artwork - our design team returns a free mockup within 24 hours.</p></div>
       <div class="pdp-feature"><div class="pdp-feature-icon"><i class="fas fa-box-open"></i></div><h3>3. Select Packaging</h3><p>Choose OPP bag with branded hangtag (default), backer card, or custom printed box for a premium unboxing. Layout design is free on 1,000+ pc orders.</p></div>
-      <div class="pdp-feature"><div class="pdp-feature-icon"><i class="fas fa-check-circle"></i></div><h3>4. Approve Sample &amp; Ship</h3><p>We produce a physical sample in 5–7 days. Once approved, bulk runs 12–20 days. You get real-time photos and video updates throughout production.</p></div>
+      <div class="pdp-feature"><div class="pdp-feature-icon"><i class="fas fa-check-circle"></i></div><h3>4. Approve Sample &amp; Ship</h3><p>We produce a physical sample in 5-7 days. Once approved, bulk runs 12-20 days. You get real-time photos and video updates throughout production.</p></div>
     </div>
   </div>
 </section>
@@ -435,8 +435,8 @@ for p in products:
     <h2 style="text-align:center;font-size:1.5rem;margin-bottom:32px;">Wholesale Cost &amp; Margin (Cat Apparel)</h2>
     <table class="pdp-spec-table" style="max-width:700px;margin:0 auto;">
       <tr><th>Item</th><th style="text-align:center;">Our Factory Price</th><th style="text-align:center;">Est. Retail</th><th style="text-align:center;">Your Margin</th></tr>
-      <tr><td>{h1} (per unit)</td><td style="text-align:center;">${lo}–${hi}</td><td style="text-align:center;">$39–$79</td><td style="text-align:center;color:#1a73e8;font-weight:700;">~200–400%</td></tr>
-      <tr><td>Shipping (sea, per unit, 500+ pcs)</td><td style="text-align:center;">~$0.30–$0.60</td><td style="text-align:center;">—</td><td style="text-align:center;">Negligible</td></tr>
+      <tr><td>{h1} (per unit)</td><td style="text-align:center;">${lo}-${hi}</td><td style="text-align:center;">$39-$79</td><td style="text-align:center;color:#1a73e8;font-weight:700;">~200-400%</td></tr>
+      <tr><td>Shipping (sea, per unit, 500+ pcs)</td><td style="text-align:center;">~$0.30-$0.60</td><td style="text-align:center;">-</td><td style="text-align:center;">Negligible</td></tr>
     </table>
     <p style="text-align:center;color:#666;font-size:0.9rem;margin-top:16px;">{note}</p>
   </div>
@@ -458,10 +458,10 @@ for p in products:
       <div style="background:#fff;border:1px solid #e5e7eb;border-radius:12px;padding:24px 28px;">
         <h3 style="font-size:1.1rem;margin-bottom:12px;color:#1a1a1a;"><i class="fas fa-palette" style="color:var(--primary);margin-right:8px;"></i>Customization Options</h3>
         <ul style="list-style:none;padding:0;margin:0;color:#444;line-height:2;">
-          <li><i class="fas fa-check" style="color:#34a853;margin-right:8px;"></i><strong>Woven / printed logo tag</strong> — MOQ 200 pcs</li>
-          <li><i class="fas fa-check" style="color:#34a853;margin-right:8px;"></i><strong>Custom dye / colorway</strong> — MOQ 200 pcs per color</li>
-          <li><i class="fas fa-check" style="color:#34a853;margin-right:8px;"></i><strong>Custom trim &amp; buttons</strong> — bow / hat / leash recoloring</li>
-          <li><i class="fas fa-check" style="color:#34a853;margin-right:8px;"></i><strong>Custom hangtag + box</strong> — MOQ 1,000 pcs</li>
+          <li><i class="fas fa-check" style="color:#34a853;margin-right:8px;"></i><strong>Woven / printed logo tag</strong> - MOQ 200 pcs</li>
+          <li><i class="fas fa-check" style="color:#34a853;margin-right:8px;"></i><strong>Custom dye / colorway</strong> - MOQ 200 pcs per color</li>
+          <li><i class="fas fa-check" style="color:#34a853;margin-right:8px;"></i><strong>Custom trim &amp; buttons</strong> - bow / hat / leash recoloring</li>
+          <li><i class="fas fa-check" style="color:#34a853;margin-right:8px;"></i><strong>Custom hangtag + box</strong> - MOQ 1,000 pcs</li>
         </ul>
       </div>
     </div>
@@ -490,7 +490,7 @@ for p in products:
   <div class="container cta-inner">
     <div class="cta-text">
       <h2>Ready to Order {h1}?</h2>
-      <p>Send us your quantity and customization requirements — we'll get back to you within 24 hours with a detailed quote.</p>
+      <p>Send us your quantity and customization requirements - we'll get back to you within 24 hours with a detailed quote.</p>
     </div>
     <div class="cta-actions">
       <a href="{wa}" target="_blank" class="btn btn-white btn-lg"><img src="../assets/WhatsApp%20LOGO.png" alt="WhatsApp" width="16" height="16" style="margin-right:6px;display:inline-block;vertical-align:middle;"> WhatsApp Us</a>
