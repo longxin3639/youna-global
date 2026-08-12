@@ -28,7 +28,7 @@ const ICONS = {
 };
 
 // Inject icons into all matching elements
-document.addEventListener('DOMContentLoaded', function {
+document.addEventListener('DOMContentLoaded', function () {
  // Social cards icons
  document.querySelectorAll('.social-card.youtube .social-icon, .contact-social-item.youtube .cs-icon').forEach(el => {
  el.innerHTML = ICONS.youtube;

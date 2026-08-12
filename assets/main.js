@@ -1,8 +1,8 @@
 // Youna Global - Main JS
 
 // Vercel Speed Insights - injected once here, covers all pages that load main.js
-window.si = window.si || function { (window.siq = window.siq || []).push(arguments); };
-(function {
+window.si = window.si || function () { (window.siq = window.siq || []).push(arguments); };
+(function () {
  var s = document.createElement('script');
  s.defer = true;
  s.src = '/_vercel/speed-insights/script.js';
@@ -10,10 +10,10 @@ window.si = window.si || function { (window.siq = window.siq || []).push(argumen
 });
 
 // Mobile nav toggle
-(function {
+(function () {
  'use strict';
  
- document.addEventListener('DOMContentLoaded', function {
+ document.addEventListener('DOMContentLoaded', function () {
  const navToggle = document.getElementById('navToggle');
  const navLinks = document.getElementById('navLinks');
  
@@ -27,7 +27,7 @@ window.si = window.si || function { (window.siq = window.siq || []).push(argumen
   
   // Close menu when clicking on links
   navLinks.querySelectorAll('a').forEach(function(link) {
-  link.addEventListener('click', function {
+  link.addEventListener('click', function () {
    navLinks.classList.remove('open');
   });
   });
@@ -53,13 +53,13 @@ if (contactForm) {
 }
 
 // Success modal
-document.addEventListener('DOMContentLoaded', function {
+document.addEventListener('DOMContentLoaded', function () {
  if (window.location.search.includes('success=true')) {
  const successModal = document.getElementById('successModal');
  if (successModal) {
   successModal.style.display = 'flex';
   window.history.replaceState({}, document.title, window.location.pathname);
-  setTimeout(function {
+  setTimeout(function () {
   successModal.style.display = 'none';
   }, 5000);
  }
@@ -67,7 +67,7 @@ document.addEventListener('DOMContentLoaded', function {
 });
 
 // Trust Carousel
-document.addEventListener('DOMContentLoaded', function {
+document.addEventListener('DOMContentLoaded', function () {
  const trustCarousel = document.querySelector('.trust-carousel');
  if (!trustCarousel) return;
 
@@ -75,25 +75,25 @@ document.addEventListener('DOMContentLoaded', function {
  if (!trustTrack) return;
  
  // Pause on hover
- trustCarousel.addEventListener('mouseenter', function {
+ trustCarousel.addEventListener('mouseenter', function () {
  trustTrack.style.animationPlayState = 'paused';
  });
  
- trustCarousel.addEventListener('mouseleave', function {
+ trustCarousel.addEventListener('mouseleave', function () {
  trustTrack.style.animationPlayState = 'running';
  });
  
  // Pause on touch
- trustCarousel.addEventListener('touchstart', function {
+ trustCarousel.addEventListener('touchstart', function () {
  trustTrack.style.animationPlayState = 'paused';
  });
  
- trustCarousel.addEventListener('touchend', function {
+ trustCarousel.addEventListener('touchend', function () {
  trustTrack.style.animationPlayState = 'running';
  });
  
  // Responsive animation speed
- function adjustSpeed {
+ function adjustSpeed() {
  const width = window.innerWidth;
  let speed = '30s';
  
@@ -127,7 +127,7 @@ document.querySelectorAll('a[href^="#"]').forEach(function(anchor) {
 // Navbar scroll effect
 const navbar = document.querySelector('.navbar');
 if (navbar) {
- window.addEventListener('scroll', function {
+ window.addEventListener('scroll', function () {
  navbar.style.boxShadow = window.scrollY > 10 ? '0 2px 20px rgba(0,0,0,0.08)' : 'none';
  });
 }

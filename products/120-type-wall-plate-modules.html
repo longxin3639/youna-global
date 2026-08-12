@@ -251,7 +251,7 @@
  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
  <link rel="stylesheet" href="../assets/font-awesome/css/all.min.css">
  <script async src="https://www.googletagmanager.com/gtag/js?id=G-5NZQCPJRRX"></script>
- <script>window.dataLayer=window.dataLayer||[];function gtag{dataLayer.push(arguments);}gtag('js',new Date);gtag('config','G-5NZQCPJRRX');</script>
+ <script>window.dataLayer=window.dataLayer||[];function gtag() {dataLayer.push(arguments);}gtag('js',new Date);gtag('config','G-5NZQCPJRRX');</script>
  <script type="application/ld+json">
  {
  "@context": "https://schema.org",
@@ -483,7 +483,7 @@
 
 <!-- SKU Selection Script -->
 <script>
-function showGrid{
+function showGrid() {
  document.getElementById('nineGrid').style.display = 'grid';
  document.getElementById('mainImg').style.display = 'none';
  document.getElementById('backBtn').classList.remove('visible');
@@ -522,7 +522,7 @@ function selectSKU(el){
 
 // Thumbnail click swaps hero to single image + syncs swatches
 document.querySelectorAll('.pdp-thumb').forEach(function(thumb){
- thumb.addEventListener('click', function{
+ thumb.addEventListener('click', function () {
  var imgSrc = thumb.getAttribute('data-full');
  document.querySelectorAll('.pdp-thumb').forEach(function(t){ t.classList.remove('active'); });
  thumb.classList.add('active');

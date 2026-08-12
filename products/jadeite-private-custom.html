@@ -283,7 +283,7 @@
  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
  <link rel="stylesheet" href="../assets/font-awesome/css/all.min.css">
  <script async src="https://www.googletagmanager.com/gtag/js?id=G-5NZQCPJRRX"></script>
- <script>window.dataLayer=window.dataLayer||[];function gtag{dataLayer.push(arguments);}gtag('js',new Date);gtag('config','G-5NZQCPJRRX');</script>
+ <script>window.dataLayer=window.dataLayer||[];function gtag() {dataLayer.push(arguments);}gtag('js',new Date);gtag('config','G-5NZQCPJRRX');</script>
  <script type="application/ld+json">
  {
  "@context": "https://schema.org",
@@ -589,7 +589,7 @@
 // Thumbnail click -> swap main image + update counter
 var thumbs = document.querySelectorAll('.pdp-thumb');
 thumbs.forEach(function(thumb, index){
- thumb.addEventListener('click', function{
+ thumb.addEventListener('click', function () {
  // Highlight
  thumbs.forEach(function(t){ t.classList.remove('active'); });
  thumb.classList.add('active');
