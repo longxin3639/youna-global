@@ -1876,6 +1876,29 @@ img.author-avatar {
 }
 .pdp-thumb:hover, .pdp-thumb.active { border-color: var(--primary); }
 
+/* Detail image grid (Product Details section) */
+.pdp-detail-grid {
+ display: grid;
+ grid-template-columns: repeat(2, 1fr);
+ gap: 16px;
+ margin: 20px 0;
+}
+.pdp-detail-img {
+ width: 100%;
+ aspect-ratio: 4 / 3;
+ object-fit: cover;
+ border-radius: 8px;
+ border: 1px solid var(--border);
+ background: #fafafa;
+ display: block;
+}
+/* odd number of images: last one spans full width (no orphan tile) */
+.pdp-detail-grid > img:last-child:nth-child(odd) { grid-column: 1 / -1; }
+@media (max-width: 600px) {
+ .pdp-detail-grid { grid-template-columns: 1fr; }
+ .pdp-detail-grid > img:last-child:nth-child(odd) { grid-column: auto; }
+}
+
 /* Product info */
 .pdp-info h1 {
  font-size: 1.5rem; font-weight: 800; color: var(--dark); margin-bottom: 12px;

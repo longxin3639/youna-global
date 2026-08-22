@@ -304,6 +304,12 @@
  <changefreq>weekly</changefreq>
  <priority>0.8</priority>
  </url>
+ <url>
+ <loc>https://www.youna-global.com/products/3d-wall-printer.html</loc>
+ <lastmod>2026-08-22</lastmod>
+ <changefreq>monthly</changefreq>
+ <priority>0.8</priority>
+ </url>
 
  <!-- Product Detail Pages -->
  <url><loc>https://www.youna-global.com/products/smartphone-snapdragon-8gen4.html</loc><lastmod>2026-05-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
@@ -402,6 +408,19 @@
  <url>
  <loc>https://www.youna-global.com/blog/blog-pet-supplies-wholesale-china.html</loc>
  <lastmod>2026-08-12</lastmod>
+ <changefreq>monthly</changefreq>
+ <priority>0.8</priority>
+ </url>
+
+ <url>
+ <loc>https://www.youna-global.com/blog/blog-private-label-manufacturing-china.html</loc>
+ <lastmod>2026-08-22</lastmod>
+ <changefreq>monthly</changefreq>
+ <priority>0.8</priority>
+ </url>
+ <url>
+ <loc>https://www.youna-global.com/blog/blog-wall-printer-applications.html</loc>
+ <lastmod>2026-08-22</lastmod>
  <changefreq>monthly</changefreq>
  <priority>0.8</priority>
  </url>
