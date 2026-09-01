@@ -1,15 +1,7 @@
 {
   "pending": [
-    "https://www.youna-global.com/products/childrens-clothing.html",
-    "https://www.youna-global.com/products/custom-tshirt.html",
-    "https://www.youna-global.com/products/hoodie.html",
-    "https://www.youna-global.com/products/ladies-sleepwear.html",
-    "https://www.youna-global.com/products/pet-collar.html",
-    "https://www.youna-global.com/products/glow-collar.html",
-    "https://www.youna-global.com/products/gps-collar.html",
-    "https://www.youna-global.com/products/smart-litter-box.html",
-    "https://www.youna-global.com/products/color-ppf.html",
-    "https://www.youna-global.com/blog/blog-how-to-choose-ppf-manufacturer-china.html"
+    "https://www.youna-global.com/blog/blog-sea-freight-from-china-2026.html",
+    "https://www.youna-global.com/blog/blog-tiktok-shop-china-sourcing.html"
   ],
   "completed": [
     "https://www.youna-global.com/products/auto-feeder.html",
@@ -43,7 +35,32 @@
     "https://www.youna-global.com/landing/tariff-proof-china-sourcing.html",
     "https://www.youna-global.com/landing/amazon-fba-sourcing-agent-china.html",
     "https://www.youna-global.com/products/smartphone-snapdragon-8gen4.html",
-    "https://www.youna-global.com/products/gps-tracker-smart-tag.html"
+    "https://www.youna-global.com/products/gps-tracker-smart-tag.html",
+    "https://www.youna-global.com/products/childrens-clothing.html",
+    "https://www.youna-global.com/products/custom-tshirt.html",
+    "https://www.youna-global.com/products/hoodie.html",
+    "https://www.youna-global.com/products/ladies-sleepwear.html",
+    "https://www.youna-global.com/products/pet-collar.html",
+    "https://www.youna-global.com/products/glow-collar.html",
+    "https://www.youna-global.com/products/gps-collar.html",
+    "https://www.youna-global.com/products/smart-litter-box.html",
+    "https://www.youna-global.com/products/color-ppf.html",
+    "https://www.youna-global.com/blog/blog-how-to-choose-ppf-manufacturer-china.html"
   ],
+  "google_pending": [],
+  "indexnow": {
+    "host": "www.youna-global.com",
+    "key_file": "9418366c8bcbb4a61d03ab1bfa1860d7.txt",
+    "key_location": "https://www.youna-global.com/9418366c8bcbb4a61d03ab1bfa1860d7.txt",
+    "submitted_at": "2026-09-01",
+    "url_count": 10,
+    "response": "HTTP 202 Accepted",
+    "status": "awaiting_key_verification",
+    "note": "IndexNow 已接受提交。Bing 会下载 keyLocation 验证，因此 key 文件必须先推送上线，否则本次提交不会生效。IndexNow 覆盖 Bing / Yandex / Seznam / Naver，不覆盖 Google。"
+  },
+  "notes": {
+    "google": "Google 不支持 IndexNow。这 10 个 URL 已在 sitemap.xml 中，Google 会通过 sitemap 自然发现；如需加速，在 Search Console 的网址检查工具逐个提交 google_pending 中的 URL。",
+    "why_google_ping_failed": "google.com/ping 接口在本机网络不可达，属国内网络限制，非站点问题。"
+  },
   "batch_size": 8
 }
