@@ -1,0 +1,2204 @@
+{
+ "page_count": 100,
+ "pages_by_dir": {
+  ".": 7,
+  "./blog": 37,
+  "./landing": 18,
+  "./products": 38
+ },
+ "seo": {
+  "no_title": [],
+  "no_desc": [],
+  "no_canon": [],
+  "no_ogimg": [
+   "./404.html",
+   "./products/apparel-accessories.html",
+   "./products/auto-feeder.html",
+   "./products/automotive-supplies-tools.html",
+   "./products/cat-black-gothic-dress.html",
+   "./products/cat-floral-garden-dress.html",
+   "./products/cat-grey-velvet-waistcoat.html",
+   "./products/cat-silver-quilted-vest.html",
+   "./products/cat-white-victorian-collar-dress.html",
+   "./products/cat-white-victorian-gown.html",
+   "./products/consumer-electronics.html",
+   "./products/custom-oem-private-label.html",
+   "./products/glow-collar.html",
+   "./products/gps-collar.html",
+   "./products/pet-collar.html",
+   "./products/pet-supplies.html",
+   "./products/smart-litter-box.html",
+   "./products/tiktok-trending.html"
+  ],
+  "h1_not_one": [],
+  "no_ld": [
+   "./404.html"
+  ],
+  "nonascii_pages": {},
+  "forbidden_pages": {
+   "./about.html": 1,
+   "./blog/blog-sourcing-agent-vs-alibaba.html": 1,
+   "./faq.html": 3
+  }
+ },
+ "images": {
+  "count": 369,
+  "total_mb": 30.68,
+  "top10": [
+   {
+    "file": "assets/images/blog/2026.9.1/zhaoqing-textile-06.webp",
+    "mb": 1.78
+   },
+   {
+    "file": "assets/images/blog/2026.9.1/zhaoqing-textile-01.webp",
+    "mb": 1.45
+   },
+   {
+    "file": "assets/images/blog/2026.9.1/zhaoqing-textile-03.webp",
+    "mb": 1.26
+   },
+   {
+    "file": "assets/LOGO.png",
+    "mb": 1.19
+   },
+   {
+    "file": "assets/images/blog/2026.9.1/zhaoqing-textile-04.webp",
+    "mb": 0.98
+   },
+   {
+    "file": "assets/images/blog/2026.9.1/zhaoqing-textile-02.webp",
+    "mb": 0.83
+   },
+   {
+    "file": "assets/LOGO2.png",
+    "mb": 0.77
+   },
+   {
+    "file": "assets/images/blog/2026.9.1/zhaoqing-textile-05.webp",
+    "mb": 0.74
+   },
+   {
+    "file": "assets/images/blog/2026.9.1/zhaoqing-textile-07.webp",
+    "mb": 0.6
+   },
+   {
+    "file": "assets/cangchu.webp",
+    "mb": 0.37
+   }
+  ],
+  "over_1mb": 4
+ },
+ "sitemap": {
+  "count": 99
+ },
+ "broken_links": {
+  "/blog/blog-hidden-costs-importing-china.html": 2,
+  "/landing/shipping-from-china.html": 2,
+  "/blog/blog-eu-de-minimis-direct-shipping-ends.html": 1,
+  "/blog/blog-import-china-tariff-guide-2026.html": 1,
+  "/blog/blog-how-to-import-from-china.html": 1,
+  "/blog/blog-negotiate-moq-china.html": 1,
+  "/blog/blog-verify-chinese-factory-audit-checklist.html": 1,
+  "/blog/blog-sample-evaluation-guide-china.html": 1,
+  "/blog/blog-qc-inspection-checklist.html": 1,
+  "/contact.html": 1
+ },
+ "pages": [
+  {
+   "path": "./404.html",
+   "bytes": 6870,
+   "title": "Page Not Found | Youna Global",
+   "title_len": 29,
+   "desc": "The page you are looking for does not exist. Browse our China sourcing services, product catalog, or contact us for a free quote.",
+   "desc_len": 129,
+   "canonical": "https://www.youna-global.com/404.html",
+   "og_image": false,
+   "h1": 1,
+   "ld_types": [],
+   "ld_count": 0,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 4,
+   "img_no_lazy": 4,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./about.html",
+   "bytes": 31358,
+   "title": "About Karsa - Professional China Sourcing Agent & Procurement Expert | Youna Global",
+   "title_len": 83,
+   "desc": "Meet Karsa, professional China sourcing agent based in Guangdong with 20+ countries served. Expert in supplier verification, price negotiation, QC inspection, and end-to-end import solutions from Yiwu, Guangzhou, and Canton Fair.",
+   "desc_len": 229,
+   "canonical": "https://www.youna-global.com/about.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "LocalBusiness",
+    "Organization",
+    "Person"
+   ],
+   "ld_count": 2,
+   "nonascii": 0,
+   "forbidden": 1,
+   "images": 10,
+   "img_no_lazy": 10,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./blog.html",
+   "bytes": 45845,
+   "title": "Blog & Guides - China Sourcing Tips & Import Guides | Youna Global",
+   "title_len": 66,
+   "desc": "Expert articles on China sourcing, importing from China, supplier verification, quality control, and shipping. Learn how to import safely and save money with Youna Global.",
+   "desc_len": 171,
+   "canonical": "https://www.youna-global.com/blog.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "Blog",
+    "BlogPost-array"
+   ],
+   "ld_count": 1,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 5,
+   "img_no_lazy": 5,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./blog/blog-avoid-china-supplier-scams.html",
+   "bytes": 36410,
+   "title": "How to Avoid China Supplier Scams: 10 Red Flags to Watch | Youna Global",
+   "title_len": 71,
+   "desc": "Learn how to spot fake Chinese suppliers before losing your money. Real photos showing the difference between legitimate factories and scam operations - from a verified China sourcing agent.",
+   "desc_len": 190,
+   "canonical": "https://www.youna-global.com/blog/blog-avoid-china-supplier-scams.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "BlogPosting",
+    "BreadcrumbList"
+   ],
+   "ld_count": 2,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 10,
+   "img_no_lazy": 5,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./blog/blog-canton-fair-2026-recap.html",
+   "bytes": 37512,
+   "title": "139th Canton Fair Just Ended: What Global Buyers Found - And What to Do Next | Youna Global",
+   "title_len": 91,
+   "desc": "Karsa was on the ground at the 139th Canton Fair in Guangzhou. Here's an insider recap of what buyers discovered, product trends, supplier reactions, and the concrete steps you should take now - whether you attended or missed it.",
+   "desc_len": 229,
+   "canonical": "https://www.youna-global.com/blog/blog-canton-fair-2026-recap.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "BlogPosting",
+    "BreadcrumbList"
+   ],
+   "ld_count": 2,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 11,
+   "img_no_lazy": 5,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./blog/blog-canton-fair-guide.html",
+   "bytes": 22092,
+   "title": "The Canton Fair Guide 2026: Find Real Suppliers | Youna Global",
+   "title_len": 62,
+   "desc": "As a sourcing agent based in Guangdong, I go to the Canton Fair regularly. Here's what no one tells you: how to tell real factories from trading companies, timeline planning, and verification tips.",
+   "desc_len": 197,
+   "canonical": "https://www.youna-global.com/blog/blog-canton-fair-guide.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "BlogPosting",
+    "BreadcrumbList"
+   ],
+   "ld_count": 2,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 11,
+   "img_no_lazy": 5,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./blog/blog-chatgpt-referral-first-time-importers.html",
+   "bytes": 27295,
+   "title": "ChatGPT Recommended Us: 2 First-Time Importer Stories | Youna Global",
+   "title_len": 68,
+   "desc": "Two first-time importers found Youna Global through ChatGPT. Read the unedited WhatsApp chats and see what AI search rewards in a sourcing agent.",
+   "desc_len": 145,
+   "canonical": "https://www.youna-global.com/blog/blog-chatgpt-referral-first-time-importers.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "BlogPosting",
+    "BreadcrumbList"
+   ],
+   "ld_count": 2,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 8,
+   "img_no_lazy": 5,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./blog/blog-china-plus-one-vs-china-only-2026.html",
+   "bytes": 35657,
+   "title": "China+1 or China Only? The Real Cost of Leaving Your China Supplier in 2026 | Youna Global",
+   "title_len": 90,
+   "desc": "Is the China+1 strategy really worth it in 2026? We break down the real costs of shifting to Vietnam, India, or Mexico vs staying with your Chinese suppliers - with honest numbers and a sourcing agent's perspective.",
+   "desc_len": 215,
+   "canonical": "https://www.youna-global.com/blog/blog-china-plus-one-vs-china-only-2026.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "BlogPosting",
+    "BreadcrumbList"
+   ],
+   "ld_count": 2,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 11,
+   "img_no_lazy": 10,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./blog/blog-china-supplier-payment-terms.html",
+   "bytes": 54933,
+   "title": "China Supplier Payment Terms: T/T, L/C, OA",
+   "title_len": 42,
+   "desc": "Confused by China supplier payment terms? We break down T/T, L/C at sight, and OA 30/60/90 - plus the red flags that precede a scam, and which to use as a new vs repeat buyer.",
+   "desc_len": 175,
+   "canonical": "https://www.youna-global.com/blog/blog-china-supplier-payment-terms.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "BlogPosting",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "ld_count": 3,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 5,
+   "img_no_lazy": 4,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./blog/blog-client-reviews-real-feedback.html",
+   "bytes": 34914,
+   "title": "Real Client Reviews: What Our Customers Actually Say on WhatsApp | Youna Global",
+   "title_len": 79,
+   "desc": "Unedited WhatsApp screenshots from real clients - no filters, no edits. See why international buyers trust Youna Global for China sourcing, from product selection to doorstep delivery.",
+   "desc_len": 184,
+   "canonical": "https://www.youna-global.com/blog/blog-client-reviews-real-feedback.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "BlogPosting",
+    "BreadcrumbList"
+   ],
+   "ld_count": 2,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 11,
+   "img_no_lazy": 5,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./blog/blog-custom-apparel-manufacturing-china.html",
+   "bytes": 51754,
+   "title": "Custom Apparel Manufacturing China: Sample to Bulk Guide 2026",
+   "title_len": 61,
+   "desc": "Master custom apparel manufacturing in China - from tech pack and sampling to bulk production, QC checkpoints, cost breakdowns, and tariff planning.",
+   "desc_len": 148,
+   "canonical": "https://www.youna-global.com/blog/blog-custom-apparel-manufacturing-china.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "BlogPosting",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "ld_count": 3,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 8,
+   "img_no_lazy": 3,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./blog/blog-designer-cat-clothes-collection.html",
+   "bytes": 67975,
+   "title": "Designer Cat Clothes: 6 Original Looks for Your Cat",
+   "title_len": 51,
+   "desc": "Explore our original designer cat clothes - gothic, Victorian &amp; garden looks. Wholesale, custom OEM &amp; private label with low MOQ. China sourcing since 2016.",
+   "desc_len": 164,
+   "canonical": "https://www.youna-global.com/blog/designer-cat-clothes-collection",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "Article",
+    "BreadcrumbList",
+    "FAQPage",
+    "HowTo"
+   ],
+   "ld_count": 4,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 10,
+   "img_no_lazy": 9,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./blog/blog-eu-de-minimis-direct-shipping-ends.html",
+   "bytes": 43139,
+   "title": "EU Direct Shipping from China Ends in 2026 | Youna Global",
+   "title_len": 57,
+   "desc": "The EU is ending its EUR150 duty-free exemption on July 1, 2026. For sellers who relied on direct shipping from China, the cost math no longer works. Here's what to do instead - and how to make the switch to inventory sourcing before the deadline.",
+   "desc_len": 247,
+   "canonical": "https://www.youna-global.com/blog/blog-eu-de-minimis-direct-shipping-ends.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "BlogPosting",
+    "BreadcrumbList"
+   ],
+   "ld_count": 2,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 7,
+   "img_no_lazy": 5,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./blog/blog-factory-direct-pricing-china.html",
+   "bytes": 50500,
+   "title": "Get Factory-Direct Pricing from Chinese Suppliers (2026)",
+   "title_len": 56,
+   "desc": "Get factory-direct pricing from Chinese suppliers: real 2026 costs, a 5-step playbook saving 15-25%, and the red flags that separate real deals from traps.",
+   "desc_len": 155,
+   "canonical": "https://www.youna-global.com/blog/blog-factory-direct-pricing-china.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "BlogPosting",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "ld_count": 3,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 10,
+   "img_no_lazy": 4,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./blog/blog-furniture-factory-tour.html",
+   "bytes": 32087,
+   "title": "Inside a Chinese Furniture Factory Tour | Youna Global",
+   "title_len": 54,
+   "desc": "Real photos from a furniture factory visit in China. See what happens when a sourcing agent accompanies clients to inspect production quality, materials, and craftsmanship firsthand.",
+   "desc_len": 182,
+   "canonical": "https://www.youna-global.com/blog/blog-furniture-factory-tour.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "BlogPosting",
+    "BreadcrumbList"
+   ],
+   "ld_count": 2,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 9,
+   "img_no_lazy": 5,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./blog/blog-gps-tracker-wholesale-china.html",
+   "bytes": 43920,
+   "title": "GPS Tracker Wholesale China: 2026 Sourcing Guide",
+   "title_len": 48,
+   "desc": "GPS tracker wholesale China guide 2026: types, real FOB prices ($4-35), MOQ, FCC/CE certification, 2G shutdown risk, and how to verify a real factory.",
+   "desc_len": 150,
+   "canonical": "https://www.youna-global.com/blog/blog-gps-tracker-wholesale-china.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "BlogPosting",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "ld_count": 3,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 8,
+   "img_no_lazy": 3,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./blog/blog-hidden-costs-importing-china.html",
+   "bytes": 54328,
+   "title": "Hidden Costs of Importing from China (Nobody Tells You)",
+   "title_len": 55,
+   "desc": "Most buyers underestimate China import costs by 30-50%. See the landed-cost math - mold fees, inspection, tariffs, port &amp; insurance - and avoid costly surprises.",
+   "desc_len": 165,
+   "canonical": "https://www.youna-global.com/blog/blog-hidden-costs-importing-china.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "BlogPosting",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "ld_count": 3,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 5,
+   "img_no_lazy": 4,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./blog/blog-how-to-choose-ppf-manufacturer-china.html",
+   "bytes": 34171,
+   "title": "How to Choose a PPF Manufacturer in China 2026 | Youna Global",
+   "title_len": 61,
+   "desc": "A practical guide for PPF distributors on how to vet Chinese paint protection film manufacturers. Covers factory visits, substrate quality (BASF, Covestro, Lubrizol), adhesive types, pricing tiers, OEM MOQ, and red flags to avoid.",
+   "desc_len": 230,
+   "canonical": "https://www.youna-global.com/blog/blog-how-to-choose-ppf-manufacturer-china.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "BlogPosting"
+   ],
+   "ld_count": 1,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 4,
+   "img_no_lazy": 4,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./blog/blog-how-to-import-from-china.html",
+   "bytes": 28072,
+   "title": "Complete Guide: How to Import Products from China in 2026 | Youna Global",
+   "title_len": 72,
+   "desc": "Step-by-step process for finding suppliers, verifying factories, negotiating prices, quality control, and shipping. Everything you need to know about importing from China.",
+   "desc_len": 171,
+   "canonical": "https://www.youna-global.com/blog/blog-how-to-import-from-china.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "BlogPosting",
+    "BreadcrumbList"
+   ],
+   "ld_count": 2,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 6,
+   "img_no_lazy": 5,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./blog/blog-import-china-tariff-guide-2026.html",
+   "bytes": 34210,
+   "title": "How to Import from China in 2026: Tariff Guide | Youna Global",
+   "title_len": 61,
+   "desc": "US-China tariff war 2026 guide. Learn how to calculate true landed costs, classify products correctly, and why a China buying agent is your best partner for compliant, cost-effective sourcing.",
+   "desc_len": 192,
+   "canonical": "https://www.youna-global.com/blog/blog-import-china-tariff-guide-2026.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "BlogPosting",
+    "BreadcrumbList"
+   ],
+   "ld_count": 2,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 10,
+   "img_no_lazy": 5,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./blog/blog-negotiate-moq-china.html",
+   "bytes": 44511,
+   "title": "How to Negotiate MOQ with Chinese Suppliers: Complete Guide | Youna Global",
+   "title_len": 74,
+   "desc": "Struggling with high minimum order quantities from Chinese factories? Learn proven MOQ negotiation strategies used by professional sourcing agents. Get lower MOQs, better prices, and smarter ordering from China.",
+   "desc_len": 211,
+   "canonical": "https://www.youna-global.com/blog/blog-negotiate-moq-china.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "BlogPosting",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "ld_count": 3,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 6,
+   "img_no_lazy": 5,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./blog/blog-pet-supplies-wholesale-china.html",
+   "bytes": 38001,
+   "title": "Pet Supplies Wholesale from China: The 2026 Importer's Guide",
+   "title_len": 60,
+   "desc": "Pet supplies wholesale China guide 2026: market size, top product categories, industrial clusters, supplier verification, MOQ, private label, and the pitfalls to avoid.",
+   "desc_len": 168,
+   "canonical": "https://www.youna-global.com/blog/blog-pet-supplies-wholesale-china.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "BlogPosting",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "ld_count": 3,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 11,
+   "img_no_lazy": 5,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./blog/blog-private-label-manufacturing-china.html",
+   "bytes": 42533,
+   "title": "Private Label Manufacturing in China: The 2026 Importer's Guide",
+   "title_len": 63,
+   "desc": "Private label manufacturing China guide 2026: how OEM, ODM and private label differ, realistic MOQs and costs, the step-by-step process, IP protection, and how a sourcing agent helps.",
+   "desc_len": 183,
+   "canonical": "https://www.youna-global.com/blog/blog-private-label-manufacturing-china.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "BlogPosting",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "ld_count": 3,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 7,
+   "img_no_lazy": 5,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./blog/blog-qc-inspection-checklist.html",
+   "bytes": 34829,
+   "title": "Pre-Shipment QC Checklist: Before Goods Leave China | Youna Global",
+   "title_len": 66,
+   "desc": "A complete pre-shipment inspection checklist for importing from China. Learn what to check on the production line, in the warehouse, and in the QC room - with real photos from Youna Global's sourcing operations.",
+   "desc_len": 211,
+   "canonical": "https://www.youna-global.com/blog/blog-qc-inspection-checklist.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "BlogPosting",
+    "BreadcrumbList"
+   ],
+   "ld_count": 2,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 9,
+   "img_no_lazy": 4,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./blog/blog-sample-evaluation-guide-china.html",
+   "bytes": 39023,
+   "title": "Sample Evaluation Guide: What to Check Before Bulk Order",
+   "title_len": 56,
+   "desc": "Sample evaluation guide for China sourcing: check supplier samples, pre-production inspection, golden sample retention, and red flags before bulk order.",
+   "desc_len": 152,
+   "canonical": "https://www.youna-global.com/blog/blog-sample-evaluation-guide-china.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "BlogPosting",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "ld_count": 3,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 4,
+   "img_no_lazy": 3,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./blog/blog-sea-freight-from-china-2026.html",
+   "bytes": 39766,
+   "title": "Sea Freight from China: Complete Cost and Timeline Guide for 2026",
+   "title_len": 65,
+   "desc": "Sea freight from China in 2026: 40ft FCL rates to the US and Europe, LCL vs FCL breakpoints, transit times, Red Sea delays, and how to cut landed cost.",
+   "desc_len": 151,
+   "canonical": "https://www.youna-global.com/blog/blog-sea-freight-from-china-2026.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "BlogPosting",
+    "BreadcrumbList"
+   ],
+   "ld_count": 2,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 7,
+   "img_no_lazy": 5,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./blog/blog-sihui-jade-market.html",
+   "bytes": 34387,
+   "title": "I Walked Into China's Biggest Jadeite Market at 5 AM - Here's What I Found | Youna Global",
+   "title_len": 89,
+   "desc": "First-hand guide to sourcing jadeite at Sihui Tian'guangxu - China's largest jadeite market. A local sourcing agent reveals what jadeite actually costs, how to avoid fake Type B/C jade, and how to get your pieces shipped worldwide.",
+   "desc_len": 231,
+   "canonical": "https://www.youna-global.com/blog/blog-sihui-jade-market.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "BlogPosting",
+    "BreadcrumbList"
+   ],
+   "ld_count": 2,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 10,
+   "img_no_lazy": 4,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./blog/blog-source-consumer-electronics-china.html",
+   "bytes": 54606,
+   "title": "How to Source Electronics from China: 2026 Buyer Guide",
+   "title_len": 54,
+   "desc": "Source consumer electronics from China in 2026: reference FOB prices, real MOQs, BOM lock, certificate checks, battery rules, and the 5 traps that burn buyers.",
+   "desc_len": 159,
+   "canonical": "https://www.youna-global.com/blog/blog-source-consumer-electronics-china.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "BlogPosting",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "ld_count": 3,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 4,
+   "img_no_lazy": 3,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./blog/blog-sourcing-agent-cost-guide-2026.html",
+   "bytes": 53152,
+   "title": "How Much Does a China Sourcing Agent Cost? Honest Fee Breakdown (2026)",
+   "title_len": 70,
+   "desc": "Real sourcing agent fees explained with actual numbers. Commission rates, per-project costs, and a real $3,800 order example. No vague percentages - honest pricing from a Guangdong-based agent.",
+   "desc_len": 193,
+   "canonical": "https://www.youna-global.com/blog/blog-sourcing-agent-cost-guide-2026.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "BlogPosting",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "ld_count": 3,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 7,
+   "img_no_lazy": 4,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./blog/blog-sourcing-agent-vs-alibaba.html",
+   "bytes": 53678,
+   "title": "Sourcing Agent vs Alibaba vs DIY: How to Choose (2026)",
+   "title_len": 54,
+   "desc": "Sourcing agent vs Alibaba vs DIY: we compare cost, risk, time, and control to help you pick the right China sourcing route for your 2026 import business.",
+   "desc_len": 153,
+   "canonical": "https://www.youna-global.com/blog/blog-sourcing-agent-vs-alibaba.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "BlogPosting",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "ld_count": 3,
+   "nonascii": 0,
+   "forbidden": 1,
+   "images": 5,
+   "img_no_lazy": 4,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./blog/blog-sourcing-automotive-film-china-ppf-vinyl-wrap-guide.html",
+   "bytes": 64747,
+   "title": "PPF Wholesale China: Paint Protection Film Sourcing Guide",
+   "title_len": 57,
+   "desc": "Stop overpaying. Source wholesale PPF, vinyl wrap &amp; window tint direct from China factories - save $500-$1,500 per roll. Complete distributor sourcing guide.",
+   "desc_len": 161,
+   "canonical": "https://www.youna-global.com/blog/sourcing-automotive-film-china-ppf-vinyl-wrap-guide.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "BlogPosting",
+    "BreadcrumbList"
+   ],
+   "ld_count": 2,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 11,
+   "img_no_lazy": 4,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./blog/blog-tiktok-shop-china-sourcing.html",
+   "bytes": 44155,
+   "title": "How to Source TikTok Trending Products from China: A TikTok Shop Seller's Guide (2026)",
+   "title_len": 86,
+   "desc": "How overseas TikTok Shop sellers source trending products from China: read 1688 price tiers, get 100-unit MOQs, test without a container, and ship small batches to FBT.",
+   "desc_len": 168,
+   "canonical": "https://www.youna-global.com/blog/blog-tiktok-shop-china-sourcing.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "BlogPosting",
+    "BreadcrumbList"
+   ],
+   "ld_count": 2,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 7,
+   "img_no_lazy": 5,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./blog/blog-trading-company-or-manufacturer-china.html",
+   "bytes": 49953,
+   "title": "Trading Company vs Manufacturer China: Which Is Better?",
+   "title_len": 55,
+   "desc": "Trading company or factory in China? We break down price, MOQ, and transparency, show how to tell who you're really dealing with, and help you decide fast.",
+   "desc_len": 155,
+   "canonical": "https://www.youna-global.com/blog/trading-company-or-manufacturer-china",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "BlogPosting",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "ld_count": 3,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 5,
+   "img_no_lazy": 4,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./blog/blog-verify-chinese-factory-audit-checklist.html",
+   "bytes": 53941,
+   "title": "How to Verify a Chinese Factory: 8-Step Audit Checklist | Youna Global",
+   "title_len": 70,
+   "desc": "Verify a Chinese factory before wiring a deposit. Karsa's 8-step audit checklist covers license checks, facility proof, QC, samples, contracts, and a trial order.",
+   "desc_len": 162,
+   "canonical": "https://www.youna-global.com/blog/blog-verify-chinese-factory-audit-checklist.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "BlogPosting",
+    "BreadcrumbList",
+    "FAQPage",
+    "HowTo"
+   ],
+   "ld_count": 4,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 8,
+   "img_no_lazy": 4,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./blog/blog-wall-printer-applications.html",
+   "bytes": 32662,
+   "title": "Wall Printer Applications: 12 Industries Using 3D Wall Printers",
+   "title_len": 63,
+   "desc": "Discover 12 industries using 3D wall printers - from home decor and retail to real estate and healthcare. Learn how wall printing machines work, costs versus hand painting, and why buyers source from China.",
+   "desc_len": 206,
+   "canonical": "https://www.youna-global.com/blog/blog-wall-printer-applications.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "BlogPosting",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "ld_count": 3,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 8,
+   "img_no_lazy": 5,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./blog/blog-why-clients-trust-us.html",
+   "bytes": 27216,
+   "title": "Why Buyers Trust Us: Real Photos & Success Stories | Youna Global",
+   "title_len": 65,
+   "desc": "See real photos of our recent shipments - warehouse storage, truck loading, and delivery to international clients. Transparent China sourcing with proven track record.",
+   "desc_len": 167,
+   "canonical": "https://www.youna-global.com/blog/blog-why-clients-trust-us.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "BlogPosting",
+    "BreadcrumbList"
+   ],
+   "ld_count": 2,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 10,
+   "img_no_lazy": 9,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./blog/blog-world-cup-sourcing-yiwu-2026.html",
+   "bytes": 39639,
+   "title": "2026 World Cup Merchandise Sourcing from Yiwu: A Complete Guide for Importers | Youna Global",
+   "title_len": 92,
+   "desc": "With the 2026 FIFA World Cup expanding to 48 teams, Yiwu is at the heart of a global merchandise boom. Learn which products to source, where to find suppliers, pricing, shipping timelines, and how a local agent gives you the edge.",
+   "desc_len": 230,
+   "canonical": "https://www.youna-global.com/blog/blog-world-cup-sourcing-yiwu-2026.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "BlogPosting",
+    "BreadcrumbList"
+   ],
+   "ld_count": 2,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 11,
+   "img_no_lazy": 5,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./blog/blog-zhaoqing-textile-factory-tour.html",
+   "bytes": 29713,
+   "title": "Inside a Full-Chain Garment Factory in China: From Yarn to Packed Cartons, Zero Outsourcing | Youna Global",
+   "title_len": 106,
+   "desc": "Real photos from a vertically integrated textile and garment factory in Zhaoqing, China. See how one facility handles spinning, weaving, dyeing, cutting, sewing, finishing, QC and packing under one roof, and why that matters for importers.",
+   "desc_len": 239,
+   "canonical": "https://www.youna-global.com/blog/blog-zhaoqing-textile-factory-tour.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "BlogPosting",
+    "BreadcrumbList"
+   ],
+   "ld_count": 2,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 13,
+   "img_no_lazy": 5,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./blog/china-plus-one-why-china-still-wins-2026.html",
+   "bytes": 35213,
+   "title": "China Plus One in 2026: Why Vietnam & India Can't Replace Your Chinese Supplier | Youna Global",
+   "title_len": 94,
+   "desc": "The truth about China Plus One in 2026. Vietnam still sources 60% of components from China. India ramp-up is slow. Here's the real math behind sourcing diversification - and why China's supply chain still wins for most importers.",
+   "desc_len": 229,
+   "canonical": "https://www.youna-global.com/blog/china-plus-one-why-china-still-wins-2026.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "BlogPosting",
+    "BreadcrumbList"
+   ],
+   "ld_count": 2,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 11,
+   "img_no_lazy": 5,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./blog/space-capsule-pod-house-sourcing.html",
+   "bytes": 35190,
+   "title": "Source Space Capsule Pod Houses from China 2026 | Youna Global",
+   "title_len": 62,
+   "desc": "Complete guide to sourcing space capsule pod houses from China. Modular prefab living pods for hotels, glamping, and tiny homes. Factory pricing $8,000-$28,000 per unit. Custom sizes, interiors, and shipping worldwide.",
+   "desc_len": 218,
+   "canonical": "https://www.youna-global.com/blog/space-capsule-pod-house-sourcing.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "BlogPosting",
+    "BreadcrumbList"
+   ],
+   "ld_count": 2,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 10,
+   "img_no_lazy": 4,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./contact.html",
+   "bytes": 21457,
+   "title": "Contact China Sourcing Agent - Free Quote in 24h | Youna Global",
+   "title_len": 63,
+   "desc": "Get a free sourcing quote from Karsa at Youna Global within 24 hours. Reach us via WhatsApp, WeChat or email. Start importing from China the smart way - verified suppliers, factory prices, zero hassle.",
+   "desc_len": 201,
+   "canonical": "https://www.youna-global.com/contact.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "Organization"
+   ],
+   "ld_count": 1,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 7,
+   "img_no_lazy": 7,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./faq.html",
+   "bytes": 31150,
+   "title": "FAQ - China Sourcing & Importing Questions | Youna Global",
+   "title_len": 57,
+   "desc": "Frequently asked questions about China sourcing: How to find suppliers, verify factories, negotiate prices, quality control, shipping costs, MOQs, and more.",
+   "desc_len": 156,
+   "canonical": "https://www.youna-global.com/faq.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "FAQPage"
+   ],
+   "ld_count": 1,
+   "nonascii": 0,
+   "forbidden": 3,
+   "images": 5,
+   "img_no_lazy": 5,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./index.html",
+   "bytes": 41182,
+   "title": "China Sourcing Agent | Free Quote, 24h Response | Youna Global",
+   "title_len": 62,
+   "desc": "Trusted China Sourcing Agent serving 20+ countries. We find verified suppliers, negotiate factory prices, handle quality control & ship worldwide. Free quote in 24h - start sourcing today!",
+   "desc_len": 188,
+   "canonical": "https://www.youna-global.com/",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "FAQPage",
+    "LocalBusiness",
+    "Organization",
+    "WebSite"
+   ],
+   "ld_count": 4,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 20,
+   "img_no_lazy": 7,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./landing/amazon-fba-sourcing-agent-china.html",
+   "bytes": 29881,
+   "title": "Amazon FBA Prep & Warehouse China | Ship Directly to Amazon Warehouses - Youna Global",
+   "title_len": 85,
+   "desc": "Amazon FBA prep warehouse in China. We handle quality inspection, FBA labeling, consolidation, and direct shipping to Amazon FBA warehouses in the USA, UK, Germany, Japan & more.",
+   "desc_len": 178,
+   "canonical": "https://www.youna-global.com/landing/amazon-fba-sourcing-agent-china.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "BreadcrumbList",
+    "FAQPage",
+    "Service"
+   ],
+   "ld_count": 3,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 11,
+   "img_no_lazy": 7,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./landing/china-buying-agent.html",
+   "bytes": 25581,
+   "title": "China Buying Agent | Professional Purchasing Agent in China - Youna Global",
+   "title_len": 74,
+   "desc": "Trusted China buying agent and purchasing agent based in Guangdong. We source products, verify suppliers, negotiate prices, inspect quality, and handle shipping worldwide. Free quote in 24h.",
+   "desc_len": 190,
+   "canonical": "https://www.youna-global.com/landing/china-buying-agent.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "BreadcrumbList",
+    "FAQPage",
+    "Service"
+   ],
+   "ld_count": 3,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 7,
+   "img_no_lazy": 7,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./landing/china-factory-visit.html",
+   "bytes": 25803,
+   "title": "Factory Visit China | Arrange Factory Tours & Professional Visit Services - Youna Global",
+   "title_len": 88,
+   "desc": "Visit factories in China with a professional sourcing agent. We arrange factory tours, accompany you during visits, verify production capacity, and help you assess if suppliers are right for you.",
+   "desc_len": 195,
+   "canonical": "https://www.youna-global.com/landing/china-factory-visit.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "BreadcrumbList",
+    "FAQPage",
+    "Service"
+   ],
+   "ld_count": 3,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 9,
+   "img_no_lazy": 6,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./landing/china-plus-one-sourcing-strategy.html",
+   "bytes": 32136,
+   "title": "China Plus One Strategy - Why a China Sourcing Agent Makes the Difference | Youna Global",
+   "title_len": 88,
+   "desc": "Navigating China Plus One? Whether you stay with China or diversify, a Guangdong-based sourcing agent on the ground makes the difference. Factory vetting, QC, and consolidated shipping - all in one.",
+   "desc_len": 198,
+   "canonical": "https://www.youna-global.com/landing/china-plus-one-sourcing-strategy.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "FAQPage",
+    "Service"
+   ],
+   "ld_count": 2,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 5,
+   "img_no_lazy": 5,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./landing/china-sourcing-agent-europe-ecommerce.html",
+   "bytes": 36495,
+   "title": "China Sourcing Agent for Europe E-commerce | Youna Global",
+   "title_len": 57,
+   "desc": "EU ending EUR150 duty exemption July 1, 2026. Switch from direct China shipping to bulk inventory sourcing. Youna Global helps European Shopify, Amazon, and WooCommerce sellers find verified Chinese suppliers, inspect quality, and ship to your EU warehouse.",
+   "desc_len": 257,
+   "canonical": "https://www.youna-global.com/landing/china-sourcing-agent-europe-ecommerce.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "Service"
+   ],
+   "ld_count": 1,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 7,
+   "img_no_lazy": 4,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./landing/china-trade-show.html",
+   "bytes": 23976,
+   "title": "Canton Fair & China Trade Show Sourcing Agent | Find Suppliers at Trade Shows - Youna Global",
+   "title_len": 92,
+   "desc": "Navigate China's biggest trade shows with a sourcing agent. We help you prepare for Canton Fair, identify real factories, and convert trade show contacts into verified suppliers.",
+   "desc_len": 178,
+   "canonical": "https://www.youna-global.com/landing/china-trade-show.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "BreadcrumbList",
+    "FAQPage",
+    "Service"
+   ],
+   "ld_count": 3,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 7,
+   "img_no_lazy": 6,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./landing/dropshipping-china.html",
+   "bytes": 30469,
+   "title": "Dropshipping Agent China | China Dropshipping Supplier & Fulfillment - Youna Global",
+   "title_len": 83,
+   "desc": "Reliable China dropshipping agent for Shopify, Amazon, eBay, WooCommerce and more. Source products directly from factories, blind shipping, quality inspection, and custom packaging. No inventory needed.",
+   "desc_len": 202,
+   "canonical": "https://www.youna-global.com/landing/dropshipping-china.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "BreadcrumbList",
+    "FAQPage",
+    "Service"
+   ],
+   "ld_count": 3,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 6,
+   "img_no_lazy": 6,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./landing/private-label-china.html",
+   "bytes": 29866,
+   "title": "Private Label Products China | OEM Manufacturing & Custom Branding - Youna Global",
+   "title_len": 81,
+   "desc": "Create your own brand with a China-based private label and OEM partner. We handle product development, factory matching, logo printing, custom packaging, and QC inspection. Free consultation.",
+   "desc_len": 191,
+   "canonical": "https://www.youna-global.com/landing/private-label-china.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "BreadcrumbList",
+    "FAQPage",
+    "Service"
+   ],
+   "ld_count": 3,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 6,
+   "img_no_lazy": 6,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./landing/product-sourcing-agent.html",
+   "bytes": 34284,
+   "title": "Product Sourcing Agent China | Find Manufacturers & Suppliers - Youna Global",
+   "title_len": 76,
+   "desc": "Professional product sourcing agent based in Guangdong, China. We find, verify, and negotiate with manufacturers so you get the best products at the best prices. Free quote within 24 hours.",
+   "desc_len": 189,
+   "canonical": "https://www.youna-global.com/landing/product-sourcing-agent.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "BreadcrumbList",
+    "FAQPage",
+    "Service"
+   ],
+   "ld_count": 3,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 7,
+   "img_no_lazy": 7,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./landing/quality-control-china.html",
+   "bytes": 39048,
+   "title": "Quality Control in China | Pre-Shipment Inspection Service - Youna Global",
+   "title_len": 73,
+   "desc": "Professional quality control and pre-shipment inspection service in China. We check products before they leave the factory so you receive exactly what you ordered. Free quote in 24h.",
+   "desc_len": 182,
+   "canonical": "https://www.youna-global.com/landing/quality-control-china.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "BreadcrumbList",
+    "FAQPage",
+    "Service"
+   ],
+   "ld_count": 3,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 8,
+   "img_no_lazy": 8,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./landing/shipping-from-china.html",
+   "bytes": 44736,
+   "title": "Shipping from China: Cost, Time & Methods 2026 | Youna Global",
+   "title_len": 61,
+   "desc": "Complete guide to shipping from China - air freight, sea freight, rail, and courier costs, transit times, and customs clearance. We coordinate shipping from Guangdong to 20+ countries.",
+   "desc_len": 184,
+   "canonical": "https://www.youna-global.com/landing/shipping-from-china.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "BreadcrumbList",
+    "FAQPage",
+    "Service"
+   ],
+   "ld_count": 3,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 5,
+   "img_no_lazy": 5,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./landing/sourcing-agent-amazon.html",
+   "bytes": 27138,
+   "title": "China Sourcing Agent for Amazon Sellers | Factory Prices, QC & Shipping - Youna Global",
+   "title_len": 86,
+   "desc": "Professional China sourcing agent for Amazon FBA sellers. We find verified suppliers, negotiate factory prices, handle QC inspections, and ship directly to Amazon warehouses. Free quote in 24h.",
+   "desc_len": 193,
+   "canonical": "https://www.youna-global.com/landing/sourcing-agent-amazon.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "BreadcrumbList",
+    "FAQPage",
+    "Service"
+   ],
+   "ld_count": 3,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 7,
+   "img_no_lazy": 7,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./landing/sourcing-agent-canton-fair.html",
+   "bytes": 25418,
+   "title": "Canton Fair Sourcing Agent | Find & Verify Suppliers at Canton Fair 2026 - Youna Global",
+   "title_len": 87,
+   "desc": "Hire a Canton Fair sourcing agent to find verified suppliers. Pre-fair research, on-site visits, factory verification, and follow-up coordination - from discovery to order.",
+   "desc_len": 172,
+   "canonical": "https://www.youna-global.com/landing/sourcing-agent-canton-fair.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "BreadcrumbList",
+    "FAQPage",
+    "Service"
+   ],
+   "ld_count": 3,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 7,
+   "img_no_lazy": 6,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./landing/sourcing-china-after-de-minimis.html",
+   "bytes": 38273,
+   "title": "China Sourcing After De Minimis Rule Change - How to Keep Costs Down | Youna Global",
+   "title_len": 83,
+   "desc": "De minimis exemption eliminated for Chinese goods. Small-package dropshipping is no longer cost-effective. Learn how bulk purchasing through a China sourcing agent keeps your landed costs down despite the policy change.",
+   "desc_len": 219,
+   "canonical": "https://www.youna-global.com/landing/sourcing-china-after-de-minimis.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "FAQPage",
+    "Service"
+   ],
+   "ld_count": 2,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 5,
+   "img_no_lazy": 5,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./landing/space-capsule-landing.html",
+   "bytes": 28070,
+   "title": "Source Space Capsule Pod Houses from China | Youna Global",
+   "title_len": 57,
+   "desc": "Factory-direct space capsule pod houses from China. Prefabricated modular living pods for hotels, glamping resorts, and tiny homes. $8,000-$28,000 per unit, shipped worldwide. Get a free quote in 24 hours.",
+   "desc_len": 205,
+   "canonical": "https://www.youna-global.com/landing/space-capsule-landing.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "Product"
+   ],
+   "ld_count": 1,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 11,
+   "img_no_lazy": 5,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./landing/tariff-proof-china-sourcing.html",
+   "bytes": 41551,
+   "title": "Tariff-Proof Your Sourcing: China Buying Agent for High-Tariff Environments | Youna Global",
+   "title_len": 90,
+   "desc": "Still sourcing from China despite high tariffs? A trusted China buying agent can offset tariff costs through better factory prices, smarter logistics, and HS code optimization. Free consultation.",
+   "desc_len": 195,
+   "canonical": "https://www.youna-global.com/landing/tariff-proof-china-sourcing.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "BreadcrumbList",
+    "FAQPage",
+    "Service"
+   ],
+   "ld_count": 3,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 10,
+   "img_no_lazy": 10,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./landing/tiktok-shop-sourcing-agent-china.html",
+   "bytes": 25255,
+   "title": "TikTok Shop Sourcing Agent China - FBT Compliant, Low MOQ, Fast Supply Chain | Youna Global",
+   "title_len": 91,
+   "desc": "TikTok Shop sellers trust Youna Global for China sourcing. We handle FBT-compliant fulfillment, small-batch product testing (50-200 units), and viral-speed supply chain. Free quote in 24h.",
+   "desc_len": 188,
+   "canonical": "https://www.youna-global.com/landing/tiktok-shop-sourcing-agent-china.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "Service"
+   ],
+   "ld_count": 1,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 8,
+   "img_no_lazy": 8,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./landing/world-cup-sourcing-agent.html",
+   "bytes": 36788,
+   "title": "World Cup 2026 Merchandise Sourcing Agent - Yiwu to Your Warehouse | Youna Global",
+   "title_len": 81,
+   "desc": "Source 2026 FIFA World Cup merchandise directly from verified Yiwu factories. Custom jerseys, fan gear, trophies, LED wristbands and more. Factory audits, QC, and door-to-door shipping handled for you.",
+   "desc_len": 201,
+   "canonical": "https://www.youna-global.com/landing/world-cup-sourcing-agent.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "FAQPage",
+    "Service"
+   ],
+   "ld_count": 2,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 7,
+   "img_no_lazy": 5,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./products/120-type-wall-plate-modules.html",
+   "bytes": 51404,
+   "title": "120-Type AV Wall Plate Modules - HDMI, USB, VGA, RCA Keystone Inserts | Youna Global",
+   "title_len": 84,
+   "desc": "Wholesale 120-type decorator wall plate modules from China. 16 SKUs: HDMI, USB 3.0, VGA, RCA AV, 3.5mm Audio, RJ45 Network, Optical Fiber, Coaxial, Power+USB. OEM available.",
+   "desc_len": 173,
+   "canonical": "https://www.youna-global.com/products/120-type-wall-plate-modules.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "Product"
+   ],
+   "ld_count": 1,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 46,
+   "img_no_lazy": 19,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./products/3d-wall-printer.html",
+   "bytes": 37015,
+   "title": "3D Wall Printer Machine | Vertical UV Wall Printing Machine Wholesale from China | Youna Global",
+   "title_len": 95,
+   "desc": "Wholesale 3D wall printer machine (vertical UV wall printing machine) from China. Prints on walls, glass, wood, tile and metal. Custom branding available. Inquire for pricing.",
+   "desc_len": 175,
+   "canonical": "https://www.youna-global.com/products/3d-wall-printer.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "Product"
+   ],
+   "ld_count": 1,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 20,
+   "img_no_lazy": 11,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./products/apparel-accessories.html",
+   "bytes": 15166,
+   "title": "Apparel & Accessories | Wholesale Clothing, Bags, Hats | Youna Global",
+   "title_len": 69,
+   "desc": "Wholesale apparel and accessories from China: leggings, sportswear, fashion bags, hats, socks, belts. Factory direct, low MOQ, custom branding available.",
+   "desc_len": 153,
+   "canonical": "https://www.youna-global.com/products/apparel-accessories.html",
+   "og_image": false,
+   "h1": 1,
+   "ld_types": [
+    "CollectionPage"
+   ],
+   "ld_count": 1,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 17,
+   "img_no_lazy": 12,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./products/auto-feeder.html",
+   "bytes": 29286,
+   "title": "Automatic Pet Feeder | WiFi Smart Feeder | Youna Global",
+   "title_len": 55,
+   "desc": "Automatic WiFi pet feeder with app control, 4L large capacity, dual power supply. Wholesale Inquire for pricing.",
+   "desc_len": 112,
+   "canonical": "https://www.youna-global.com/products/auto-feeder.html",
+   "og_image": false,
+   "h1": 1,
+   "ld_types": [
+    "Product"
+   ],
+   "ld_count": 1,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 14,
+   "img_no_lazy": 11,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./products/automotive-supplies-tools.html",
+   "bytes": 14257,
+   "title": "Automotive Supplies & Tools | Wholesale from China | Youna Global",
+   "title_len": 65,
+   "desc": "Wholesale automotive supplies and tools from China: paint protection film (PPF), color PPF, vehicle wraps. Factory-direct prices, OEM available.",
+   "desc_len": 144,
+   "canonical": "https://www.youna-global.com/products/automotive-supplies-tools.html",
+   "og_image": false,
+   "h1": 1,
+   "ld_types": [
+    "CollectionPage"
+   ],
+   "ld_count": 1,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 15,
+   "img_no_lazy": 12,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./products/cat-black-gothic-dress.html",
+   "bytes": 24211,
+   "title": "Black Gothic Dress for Cats | Original Designer Cat Clothing | Youna Global",
+   "title_len": 75,
+   "desc": "Wholesale original black sheer gothic dress for cats with lace hat & pink bow. Editorial alternative cat outfit. Inquire for pricing. Factory-direct from Youna Global. Inquire for pricing.",
+   "desc_len": 188,
+   "canonical": "https://www.youna-global.com/products/cat-black-gothic-dress.html",
+   "og_image": false,
+   "h1": 1,
+   "ld_types": [
+    "Product"
+   ],
+   "ld_count": 1,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 15,
+   "img_no_lazy": 9,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./products/cat-floral-garden-dress.html",
+   "bytes": 24167,
+   "title": "Floral Garden Dress for Cats | Original Designer Cat Clothing | Youna Global",
+   "title_len": 76,
+   "desc": "Wholesale original black-and-white floral garden dress for cats with sunhat. Fresh daytime cat outfit. Inquire for pricing. Factory-direct original design from Youna Global.",
+   "desc_len": 173,
+   "canonical": "https://www.youna-global.com/products/cat-floral-garden-dress.html",
+   "og_image": false,
+   "h1": 1,
+   "ld_types": [
+    "Product"
+   ],
+   "ld_count": 1,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 15,
+   "img_no_lazy": 9,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./products/cat-grey-velvet-waistcoat.html",
+   "bytes": 24131,
+   "title": "Grey Velvet Waistcoat for Cats | Original Designer Cat Clothing | Youna Global",
+   "title_len": 78,
+   "desc": "Wholesale original grey velvet waistcoat for cats with faux-pearl necklace, bow & beret. Photo-ready gentleman cat outfit. Inquire for pricing. Factory-direct from Youna Global.",
+   "desc_len": 177,
+   "canonical": "https://www.youna-global.com/products/cat-grey-velvet-waistcoat.html",
+   "og_image": false,
+   "h1": 1,
+   "ld_types": [
+    "Product"
+   ],
+   "ld_count": 1,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 15,
+   "img_no_lazy": 9,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./products/cat-silver-quilted-vest.html",
+   "bytes": 24513,
+   "title": "Silver Quilted Vest Set for Cats | Original Designer Cat Clothing | Youna Global",
+   "title_len": 80,
+   "desc": "Wholesale original designer silver quilted vest set for cats - quilted vest, white shirt & wide-brim hat. Inquire for pricing. Factory-direct original cat fashion from Youna Global.",
+   "desc_len": 181,
+   "canonical": "https://www.youna-global.com/products/cat-silver-quilted-vest.html",
+   "og_image": false,
+   "h1": 1,
+   "ld_types": [
+    "Product"
+   ],
+   "ld_count": 1,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 15,
+   "img_no_lazy": 9,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./products/cat-white-victorian-collar-dress.html",
+   "bytes": 24372,
+   "title": "White Victorian Collar Dress for Cats | Original Designer Cat Clothing | Youna Global",
+   "title_len": 85,
+   "desc": "Wholesale original white Victorian collar dress for cats with gold buttons & matching leash. Walk-ready luxury cat outfit. Inquire for pricing. Factory-direct from Youna Global.",
+   "desc_len": 177,
+   "canonical": "https://www.youna-global.com/products/cat-white-victorian-collar-dress.html",
+   "og_image": false,
+   "h1": 1,
+   "ld_types": [
+    "Product"
+   ],
+   "ld_count": 1,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 15,
+   "img_no_lazy": 9,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./products/cat-white-victorian-gown.html",
+   "bytes": 24274,
+   "title": "White Victorian Gown for Cats | Original Designer Cat Clothing | Youna Global",
+   "title_len": 77,
+   "desc": "Wholesale original white Victorian gown for cats with lace hood & crystal buttons. Floor-length luxury cat dress. Inquire for pricing. Factory-direct from Youna Global. Inquire for pricing.",
+   "desc_len": 189,
+   "canonical": "https://www.youna-global.com/products/cat-white-victorian-gown.html",
+   "og_image": false,
+   "h1": 1,
+   "ld_types": [
+    "Product"
+   ],
+   "ld_count": 1,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 15,
+   "img_no_lazy": 9,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./products/childrens-clothing.html",
+   "bytes": 28175,
+   "title": "Wholesale Children's Clothing | Kids Wear Supplier China | Youna Global",
+   "title_len": 71,
+   "desc": "Wholesale children's clothing from China. Factory price Inquire for pricing. Cotton, polyester blends, multiple styles. Custom branding and OEM available. Inquire for pricing.",
+   "desc_len": 175,
+   "canonical": "https://www.youna-global.com/products/childrens-clothing.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "Product"
+   ],
+   "ld_count": 1,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 16,
+   "img_no_lazy": 9,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./products/color-ppf.html",
+   "bytes": 53353,
+   "title": "Wholesale Color PPF (Paint Protection Film) China | Youna Global",
+   "title_len": 64,
+   "desc": "Source TPU color paint protection film (Color PPF / colored PPF) wholesale from China. Available in 500+ colors - gloss, metallic, matte finishes. 7.5 mil, self-healing, hydrophobic. OEM private label available. MOQ 1 roll. Get factory price today.",
+   "desc_len": 248,
+   "canonical": "https://www.youna-global.com/products/color-ppf.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "BreadcrumbList",
+    "FAQPage",
+    "Product"
+   ],
+   "ld_count": 3,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 13,
+   "img_no_lazy": 10,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./products/commercial-coffee-vending-machine.html",
+   "bytes": 33297,
+   "title": "Commercial Coffee Vending Machine - Automatic Bean-to-Cup | Wholesale from China | Youna Global",
+   "title_len": 95,
+   "desc": "Wholesale commercial coffee vending machine, automatic bean-to-cup. MDB payment, 15 bar pump, optional 4G/WiFi telemetry. Custom branding available. Inquire for pricing.",
+   "desc_len": 169,
+   "canonical": "https://www.youna-global.com/products/commercial-coffee-vending-machine.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "Product"
+   ],
+   "ld_count": 1,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 12,
+   "img_no_lazy": 7,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./products/consumer-electronics.html",
+   "bytes": 17866,
+   "title": "Consumer Electronics | Bluetooth Earbuds, Chargers, Power Banks | Youna Global",
+   "title_len": 78,
+   "desc": "Wholesale consumer electronics from China: Bluetooth earbuds, USB-C cables, power banks, wall chargers, phone holders, Bluetooth speakers. Factory prices, low MOQ.",
+   "desc_len": 163,
+   "canonical": "https://www.youna-global.com/products/consumer-electronics.html",
+   "og_image": false,
+   "h1": 1,
+   "ld_types": [
+    "CollectionPage"
+   ],
+   "ld_count": 1,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 19,
+   "img_no_lazy": 12,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./products/custom-oem-private-label.html",
+   "bytes": 15269,
+   "title": "Custom OEM & Private Label | Your Brand, Our Factory | Youna Global",
+   "title_len": 67,
+   "desc": "Custom OEM and private label services from China: white labeling, custom packaging, MOQ negotiation, factory-direct sourcing. Build your brand with Youna Global.",
+   "desc_len": 161,
+   "canonical": "https://www.youna-global.com/products/custom-oem-private-label.html",
+   "og_image": false,
+   "h1": 1,
+   "ld_types": [
+    "CollectionPage"
+   ],
+   "ld_count": 1,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 16,
+   "img_no_lazy": 12,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./products/custom-tshirt.html",
+   "bytes": 28603,
+   "title": "Custom Printed T-Shirt Wholesale | OEM T-Shirt Supplier China | Youna Global",
+   "title_len": 76,
+   "desc": "Wholesale custom printed T-shirts from China. Factory price Inquire for pricing. Screen print, DTG, embroidery. Custom design and branding available. Inquire for pricing.",
+   "desc_len": 170,
+   "canonical": "https://www.youna-global.com/products/custom-tshirt.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "Product"
+   ],
+   "ld_count": 1,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 20,
+   "img_no_lazy": 11,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./products/glow-collar.html",
+   "bytes": 25881,
+   "title": "LED Glow Pet Collar | Night Safety | Youna Global",
+   "title_len": 49,
+   "desc": "LED glow pet collars with 3 light modes. USB rechargeable, IPX4 water resistant. Wholesale Inquire for pricing.",
+   "desc_len": 111,
+   "canonical": "https://www.youna-global.com/products/glow-collar.html",
+   "og_image": false,
+   "h1": 1,
+   "ld_types": [
+    "Product"
+   ],
+   "ld_count": 1,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 15,
+   "img_no_lazy": 12,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./products/gps-collar.html",
+   "bytes": 26154,
+   "title": "GPS Pet Tracking Collar | Real-Time Tracker | Youna Global",
+   "title_len": 58,
+   "desc": "GPS pet tracking collar with real-time location, geo-fence, and 5-day battery. Waterproof IP67. Wholesale Inquire for pricing.",
+   "desc_len": 126,
+   "canonical": "https://www.youna-global.com/products/gps-collar.html",
+   "og_image": false,
+   "h1": 1,
+   "ld_types": [
+    "Product"
+   ],
+   "ld_count": 1,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 13,
+   "img_no_lazy": 10,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./products/gps-tracker-smart-tag.html",
+   "bytes": 33083,
+   "title": "GPS Tracker Smart Tag AirTag Alternative | Wholesale from China | Youna Global",
+   "title_len": 78,
+   "desc": "Wholesale GPS Tracker Smart Tag (AirTag alternative) from China. Find My compatible, Bluetooth 5.3, CR2032 battery. Custom branding available. Inquire for pricing.",
+   "desc_len": 163,
+   "canonical": "https://www.youna-global.com/products/gps-tracker-smart-tag.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "Product"
+   ],
+   "ld_count": 1,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 20,
+   "img_no_lazy": 10,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./products/home-commercial-espresso-machine.html",
+   "bytes": 34352,
+   "title": "Home &amp; Small-Commercial Espresso Machine - 15 Bar Semi-Automatic | Wholesale from China | Youna Global",
+   "title_len": 106,
+   "desc": "Wholesale home and small-commercial espresso machine, 15 bar semi-automatic 8-drink. Italian ULKA pump, dual voltage, custom UI available. Inquire for pricing.",
+   "desc_len": 159,
+   "canonical": "https://www.youna-global.com/products/home-commercial-espresso-machine.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "Product"
+   ],
+   "ld_count": 1,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 18,
+   "img_no_lazy": 11,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./products/hoodie.html",
+   "bytes": 26041,
+   "title": "Wholesale Pullover Hoodie | Custom Hoodie Supplier China | Youna Global",
+   "title_len": 71,
+   "desc": "Wholesale pullover hoodies from China. Factory price Inquire for pricing. Cotton, fleece, custom prints. OEM and private label available. Inquire for pricing.",
+   "desc_len": 158,
+   "canonical": "https://www.youna-global.com/products/hoodie.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "Product"
+   ],
+   "ld_count": 1,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 16,
+   "img_no_lazy": 9,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./products/inflatable-sup-board.html",
+   "bytes": 44456,
+   "title": "Inflatable SUP Board Manufacturer China | Wholesale Stand Up Paddleboard OEM | Youna Global",
+   "title_len": 91,
+   "desc": "Wholesale inflatable SUP boards from China: stand-up paddleboards Inquire for pricing. -150/unit. All-round, touring, yoga and multi-person models. Complete kit, CE certified, drop-stitch, OEM/private label. Sourced by Youna Global - your China sourcing agent.",
+   "desc_len": 260,
+   "canonical": "https://www.youna-global.com/products/inflatable-sup-board.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "FAQPage",
+    "Product"
+   ],
+   "ld_count": 2,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 24,
+   "img_no_lazy": 15,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./products/jadeite-private-custom.html",
+   "bytes": 37488,
+   "title": "Private Custom Jadeite Sourcing - Bangles, Pendants, Carved Jewelry | Youna Global",
+   "title_len": 82,
+   "desc": "Private custom Jadeite sourcing from China: bangles, beaded necklaces, carved pendants (Guanyin, Buddha), icy-green Jadeite jewelry. Price range Inquire for pricing. M+. Direct from Myanmar-Burma trade hub via Guangzhou. MOQ 1 piece. OEM & bespoke orders welcome.",
+   "desc_len": 263,
+   "canonical": "https://www.youna-global.com/products/jadeite-private-custom.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "Product"
+   ],
+   "ld_count": 1,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 29,
+   "img_no_lazy": 12,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./products/ladies-sleepwear.html",
+   "bytes": 26380,
+   "title": "Wholesale Ladies' Sleepwear Set | Pajama Supplier China | Youna Global",
+   "title_len": 70,
+   "desc": "Wholesale ladies' sleepwear sets from China. Factory price Inquire for pricing. , MOQ 200 sets. Cotton, silk-like polyester, modal. Custom branding available. Inquire for pricing.",
+   "desc_len": 179,
+   "canonical": "https://www.youna-global.com/products/ladies-sleepwear.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "Product"
+   ],
+   "ld_count": 1,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 16,
+   "img_no_lazy": 9,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./products/led-ceiling-fan-with-light.html",
+   "bytes": 35959,
+   "title": "LED Ceiling Fan with Light | Wholesale from China Factory | Youna Global",
+   "title_len": 72,
+   "desc": "Wholesale LED ceiling fan with light from China factory. DC motor, 3-color LED, remote control, CE/RoHS certified. Custom branding available. Inquire for pricing.",
+   "desc_len": 162,
+   "canonical": "https://www.youna-global.com/products/led-ceiling-fan-with-light.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "FAQPage",
+    "Product"
+   ],
+   "ld_count": 2,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 18,
+   "img_no_lazy": 10,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./products/moissanite.html",
+   "bytes": 54281,
+   "title": "Wholesale Loose Moissanite Stones from China | Youna Global",
+   "title_len": 59,
+   "desc": "Wholesale loose moissanite stones from China: DEF colorless and 24 fancy colors, GRA certified, laser girdle code, 0.5-3ct+. MOQ 1 stone. OEM/private label for jewelry brands. Source moissanite direct from Guangdong with Youna Global - your gemstone sourcing agent.",
+   "desc_len": 265,
+   "canonical": "https://www.youna-global.com/products/moissanite.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "FAQPage",
+    "Product"
+   ],
+   "ld_count": 2,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 42,
+   "img_no_lazy": 11,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./products/motorized-surfboard.html",
+   "bytes": 46147,
+   "title": "Motorized Surfboard Manufacturer China | Electric Power Surfboard inquire for pricing-4,999 | Youna Global",
+   "title_len": 106,
+   "desc": "Wholesale motorized surfboards from China: electric power surfboards Inquire for pricing. -4,999/unit. Fiberglass & carbon fiber hull, 1 unit MOQ. Factory-direct with OEM/private label. Sourced by Youna Global.",
+   "desc_len": 210,
+   "canonical": "https://www.youna-global.com/products/motorized-surfboard.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "FAQPage",
+    "Product"
+   ],
+   "ld_count": 2,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 22,
+   "img_no_lazy": 14,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./products/paint-protection-film.html",
+   "bytes": 65302,
+   "title": "Wholesale Paint Protection Film (PPF) from China | Factory Price | Youna Global",
+   "title_len": 79,
+   "desc": "Source paint protection film (PPF / clear bra) wholesale from China. TPU-based PPF with BASF, Covestro & Lubrizol substrates. Gloss & matte finish, 6.5-13 mil. MOQ 1 roll. OEM available. Get factory price today.",
+   "desc_len": 211,
+   "canonical": "https://www.youna-global.com/products/paint-protection-film.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "BreadcrumbList",
+    "FAQPage",
+    "Product"
+   ],
+   "ld_count": 3,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 19,
+   "img_no_lazy": 14,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./products/pet-collar.html",
+   "bytes": 27782,
+   "title": "Wholesale Pet Collar | Nylon & Hardware | Youna Global",
+   "title_len": 54,
+   "desc": "Wholesale pet collars from China: nylon, hardware buckle, adjustable sizes S-XL. Low MOQ Inquire for pricing. Factory-direct prices for pet stores & distributors. Inquire for pricing.",
+   "desc_len": 183,
+   "canonical": "https://www.youna-global.com/products/pet-collar.html",
+   "og_image": false,
+   "h1": 1,
+   "ld_types": [
+    "Product"
+   ],
+   "ld_count": 1,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 15,
+   "img_no_lazy": 12,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./products/pet-supplies.html",
+   "bytes": 19975,
+   "title": "Pet Supplies | Wholesale Pet Products from China | Youna Global",
+   "title_len": 63,
+   "desc": "Wholesale pet supplies from China: pet collars, LED glow collars, GPS trackers, smart litter boxes, automatic feeders. Factory direct prices, low MOQ.",
+   "desc_len": 150,
+   "canonical": "https://www.youna-global.com/products/pet-supplies.html",
+   "og_image": false,
+   "h1": 1,
+   "ld_types": [
+    "CollectionPage"
+   ],
+   "ld_count": 1,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 23,
+   "img_no_lazy": 12,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./products/phone-cases.html",
+   "bytes": 50111,
+   "title": "Custom Phone Cases Wholesale China - Armor, Kickstand, Clear TPU, Hard Shell, OEM",
+   "title_len": 81,
+   "desc": "Wholesale custom phone cases from China: armor, kickstand, clear TPU, colorful, hard shell & shockproof. OEM/private label. , FOB Guangdong. Source iPhone & Samsung cases with Youna Global.",
+   "desc_len": 189,
+   "canonical": "https://www.youna-global.com/products/phone-cases.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "FAQPage",
+    "Product"
+   ],
+   "ld_count": 2,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 31,
+   "img_no_lazy": 13,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./products/portable-espresso-maker.html",
+   "bytes": 33755,
+   "title": "Portable Espresso Maker - USB-Rechargeable Handheld | Wholesale from China | Youna Global",
+   "title_len": 89,
+   "desc": "Wholesale portable espresso maker, USB-rechargeable handheld coffee machine. 15-20 bar piston pump, CE/FCC certified, custom logo. Inquire for pricing.",
+   "desc_len": 151,
+   "canonical": "https://www.youna-global.com/products/portable-espresso-maker.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "Product"
+   ],
+   "ld_count": 1,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 18,
+   "img_no_lazy": 11,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./products/smart-helmet-led-display.html",
+   "bytes": 39056,
+   "title": "Smart Helmet with LED Display Screen | Phone-Controlled | Wholesale China | Youna Global",
+   "title_len": 88,
+   "desc": "Wholesale smart helmet with programmable LED display screen on the rear. Control via phone app - show text, animations, turn signals. DOT certified. OEM available. Inquire for pricing.",
+   "desc_len": 184,
+   "canonical": "https://www.youna-global.com/products/smart-helmet-led-display.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "FAQPage",
+    "Product"
+   ],
+   "ld_count": 2,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 17,
+   "img_no_lazy": 10,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./products/smart-litter-box.html",
+   "bytes": 27019,
+   "title": "Smart Automatic Litter Box | Self-Cleaning | Youna Global",
+   "title_len": 57,
+   "desc": "Smart self-cleaning cat litter box with app monitoring, odor removal, and safety sensors. Wholesale Inquire for pricing.",
+   "desc_len": 120,
+   "canonical": "https://www.youna-global.com/products/smart-litter-box.html",
+   "og_image": false,
+   "h1": 1,
+   "ld_types": [
+    "Product"
+   ],
+   "ld_count": 1,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 14,
+   "img_no_lazy": 11,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./products/smartphone-snapdragon-8gen4.html",
+   "bytes": 35932,
+   "title": "Wholesale Snapdragon 8 Gen 4 Smartphone | Android 15 | 108MP Camera | Youna Global",
+   "title_len": 82,
+   "desc": "Wholesale Snapdragon 8 Gen 4 smartphone from China., Android 15, >7 inch 144Hz display, 108MP camera, 8000mAh battery, 5G dual SIM. Custom branding available. Inquire for pricing.",
+   "desc_len": 179,
+   "canonical": "https://www.youna-global.com/products/smartphone-snapdragon-8gen4.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "Product"
+   ],
+   "ld_count": 1,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 12,
+   "img_no_lazy": 11,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./products/space-capsule-pod-house.html",
+   "bytes": 14124,
+   "title": "Space Capsule Pod House Wholesale from China | Youna Global",
+   "title_len": 59,
+   "desc": "Wholesale Space Capsule Pod Houses from China. Prefabricated modular living pods for glamping resorts, boutique hotels, Airbnb, ADU, and off-grid living. Factory-direct pricing Inquire for pricing. Custom sizes, smart home, and OEM branding available.",
+   "desc_len": 251,
+   "canonical": "https://www.youna-global.com/products/space-capsule-pod-house.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "Product"
+   ],
+   "ld_count": 1,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 11,
+   "img_no_lazy": 8,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./products/tiktok-trending.html",
+   "bytes": 14163,
+   "title": "TikTok Trending Products | Motorized Surfboard & SUP from China | Youna Global",
+   "title_len": 78,
+   "desc": "TikTok trending products from China: motorized surfboard Inquire for pricing. -4,999/unit (MOQ 1) and inflatable SUP board Inquire for pricing. -150/unit. Factory-direct viral watersports items with OEM/private label. Sourced by Youna Global.",
+   "desc_len": 242,
+   "canonical": "https://www.youna-global.com/products/tiktok-trending.html",
+   "og_image": false,
+   "h1": 1,
+   "ld_types": [
+    "CollectionPage"
+   ],
+   "ld_count": 1,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 15,
+   "img_no_lazy": 12,
+   "img_no_alt": 0
+  },
+  {
+   "path": "./services.html",
+   "bytes": 41387,
+   "title": "China Sourcing Services | Factory Sourcing, QC Inspection, Shipping & OEM | Youna Global",
+   "title_len": 88,
+   "desc": "End-to-end China sourcing services: verified supplier sourcing (24h response), factory price negotiation, quality control inspection, international freight shipping, free 15-day warehouse storage & OEM private label. Serving 30+ countries since 2016. Free quote in 24 hours.",
+   "desc_len": 274,
+   "canonical": "https://www.youna-global.com/services.html",
+   "og_image": true,
+   "h1": 1,
+   "ld_types": [
+    "BreadcrumbList",
+    "Service"
+   ],
+   "ld_count": 2,
+   "nonascii": 0,
+   "forbidden": 0,
+   "images": 5,
+   "img_no_lazy": 5,
+   "img_no_alt": 0
+  }
+ ]
+}

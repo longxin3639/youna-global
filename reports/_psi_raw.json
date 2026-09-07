@@ -1,0 +1,14 @@
+{
+ "home": {
+  "error": "<urlopen error Tunnel connection failed: 502 Bad Gateway>"
+ },
+ "home_desktop": {
+  "error": "<urlopen error Tunnel connection failed: 502 Bad Gateway>"
+ },
+ "sea": {
+  "error": "<urlopen error Tunnel connection failed: 502 Bad Gateway>"
+ },
+ "textile": {
+  "error": "<urlopen error Tunnel connection failed: 502 Bad Gateway>"
+ }
+}

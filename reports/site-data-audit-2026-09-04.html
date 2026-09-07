@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="zh-CN" data-page-node-id="Cd5sfgD7QOqQ8D0hKMB1iH">
+<head data-page-node-id="ruLDumf2IhG8rr41QkeQPb">
+<meta charset="UTF-8" data-page-node-id="8QYfwAbQMsMJhlbo7lLl8s">
+<meta name="viewport" content="width=device-width, initial-scale=1.0" data-page-node-id="GxBWZxTAAdfKBwSHXBoZ9W">
+<title>Youna Global 网站数据实测报告 - 2026-09-04</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif;
+background:linear-gradient(135deg,#0f0c29 0%,#302b63 50%,#24243e 100%);color:#e8e8f0;line-height:1.7;padding:32px 20px}
+.wrap{max-width:1080px;margin:0 auto}
+h1{font-size:2rem;background:linear-gradient(90deg,#c471ed,#00d4ff);-webkit-background-clip:text;
+-webkit-text-fill-color:transparent;background-clip:text;margin-bottom:6px}
+.sub{color:#9a9ab5;font-size:.95rem;margin-bottom:28px}
+.card{background:rgba(255,255,255,.05);border:1px solid rgba(255,255,255,.1);border-radius:14px;
+padding:22px 24px;margin-bottom:20px;backdrop-filter:blur(8px)}
+.card h2{font-size:1.15rem;color:#00d4ff;margin-bottom:14px;display:flex;align-items:center;gap:8px}
+.card h3{font-size:1rem;color:#c471ed;margin:16px 0 8px}
+.kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:14px;margin-bottom:20px}
+.kpi{background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.12);border-radius:12px;padding:16px;text-align:center}
+.kpi .v{font-size:1.9rem;font-weight:800;background:linear-gradient(90deg,#c471ed,#00d4ff);
+-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text}
+.kpi .l{font-size:.8rem;color:#9a9ab5;margin-top:4px}
+table{width:100%;border-collapse:collapse;font-size:.88rem;margin-top:10px}
+th,td{padding:9px 10px;text-align:left;border-bottom:1px solid rgba(255,255,255,.09)}
+th{color:#00d4ff;font-weight:600;font-size:.82rem;text-transform:uppercase;letter-spacing:.03em}
+td.num{text-align:right;font-variant-numeric:tabular-nums}
+.bar-row{display:flex;align-items:center;gap:12px;margin:9px 0;font-size:.88rem}
+.bar-label{width:210px;color:#cfcfe4;flex-shrink:0}
+.bar-track{flex:1;height:20px;background:rgba(255,255,255,.08);border-radius:10px;overflow:hidden}
+.bar-fill{height:100%;border-radius:10px;background:linear-gradient(90deg,#c471ed,#00d4ff)}
+.bar-val{width:120px;text-align:right;color:#9a9ab5;font-size:.82rem;flex-shrink:0}
+.ok{color:#4ade80}.warn{color:#fbbf24}.bad{color:#f87171}
+.note{background:rgba(251,191,36,.1);border-left:3px solid #fbbf24;padding:12px 16px;border-radius:0 8px 8px 0;
+margin:14px 0;font-size:.88rem;color:#e8e8f0}
+.crit{background:rgba(248,113,113,.12);border-left:3px solid #f87171;padding:12px 16px;border-radius:0 8px 8px 0;
+margin:14px 0;font-size:.88rem}
+.good{background:rgba(74,222,128,.1);border-left:3px solid #4ade80;padding:12px 16px;border-radius:0 8px 8px 0;
+margin:14px 0;font-size:.88rem}
+code{background:rgba(0,0,0,.35);padding:2px 7px;border-radius:5px;font-family:Consolas,monospace;font-size:.85rem;color:#00d4ff}
+ul{margin:8px 0 8px 22px}li{margin:5px 0;font-size:.9rem}
+.foot{text-align:center;color:#6a6a85;font-size:.8rem;margin-top:30px;padding-top:18px;border-top:1px solid rgba(255,255,255,.08)}
+.tag{display:inline-block;padding:2px 9px;border-radius:20px;font-size:.72rem;font-weight:700;margin-left:8px;vertical-align:middle}
+.tag-p0{background:rgba(248,113,113,.2);color:#f87171;border:1px solid rgba(248,113,113,.4)}
+.tag-p1{background:rgba(251,191,36,.2);color:#fbbf24;border:1px solid rgba(251,191,36,.4)}
+.tag-p2{background:rgba(96,165,250,.2);color:#60a5fa;border:1px solid rgba(96,165,250,.4)}
+.measure{font-size:.8rem;color:#7a7a95;font-style:italic;margin-top:8px}
+</style>
+</head>
+<body data-page-node-id="vGmgUcZXmCtg5raxodrtnp">
+<div class="wrap" data-page-node-id="uuP9PHzNRGyfS8wzrSAKkv">
+
+<h1 data-page-node-id="GE2diPxZfiUH8vskMBr5Q0">Youna Global 网站数据实测报告</h1>
+<div class="sub" data-page-node-id="qO4qzmBXf7WvYQXMydEnag">测量时间 2026-09-04 16:33 - 16:45 (GMT+8) &nbsp;|&nbsp; 全部数据来自真实请求与本地文件扫描，未使用任何估算值</div>
+
+<!-- 数据可信度声明 -->
+<div class="card" data-page-node-id="vZSoBgSkN1Q1DvdjPExunt">
+<h2 data-page-node-id="qhGSqT1j1IlVGWuVrG9KRF">数据可信度声明（先读这段）</h2>
+<p style="font-size:.92rem" data-page-node-id="B2IcfzwcWjBza4XaUGJsAm">你要"真实的、不要瞎判断"，所以先把数据边界讲清楚，避免你把不可靠的数当结论。</p>
+
+<div class="good" data-page-node-id="g1OiFWaHuCqmQKLYLMH5tk">
+<strong data-page-node-id="iQuneDa1VqHyq9G3fFEWMn">本报告中的数据都是实测的：</strong>线上真实 HTTP 请求（状态码、TTFB、content-type、文件字节数）、以及本地 100 个 HTML 文件的逐行扫描。每一项都可复现。
+</div>
+
+<div class="crit" data-page-node-id="LuQQGudiCpByVsb1rbKDTA">
+<strong data-page-node-id="LNXFElN4GcfZaS2tRuG1X2">拿不到的数据（不编造，如实告知）：</strong><br data-page-node-id="kafhiRd7GLIaGePcCm9M61">
+1. <strong data-page-node-id="IUsomDa04u4zct7KfKEP2l">Google Search Console 的展示次数 / 点击率 / 平均排名</strong> —— 需要你的 Google 账号 OAuth 授权，且本环境访问不到 Google（见下方说明）。这是你问的"展示效果数据"的主体。<br data-page-node-id="2M9ouTuQIBM7NNn5iBlBAW">
+2. <strong data-page-node-id="UsB0SQFxoK9vmCDRAiYKmG">Lighthouse / PageSpeed 性能跑分</strong> —— 需要调用 Google PSI API，同样不可达。<br data-page-node-id="ks3WhEZNgP3ugplclVRPsH">
+实测证据：本环境存在透明代理 <code data-page-node-id="Ia6VoxIUI5GbFFVN0vs7H4">http://127.0.0.1:64932</code>，实测 <code data-page-node-id="17cnAz41zQc4tDOqdkUInb">google.com</code> 与 <code data-page-node-id="z71x4JxRw1jgcvIc66dl23">googleapis.com</code> 均返回 HTTP 000（走代理与直连都失败），而你站点 <code data-page-node-id="2c1IvG43dDocuFYABYMxRR">youna-global.com</code> 返回正常 200。所以这是环境限制，不是你网站的问题。
+</div>
+
+<div class="note" data-page-node-id="28sXz1kdzqnjuyIL1XuSGA">
+<strong data-page-node-id="FUfcdC8nnsabEhSlG4YWoX">关于 TTFB 的读法（重要）：</strong>下面的延迟是从<strong data-page-node-id="dsEsc47G9mmwEmIahG8djo">你本机（广东，经代理）</strong>访问 Vercel 的结果，路径是跨境 + 代理转发，<strong data-page-node-id="hHe83LOWtLcoREIB1coSJP">不代表你目标市场（欧美）访客的真实体验</strong>。欧美用户直连 Vercel 边缘节点通常明显快于这个数。所以这个数只能用来做<strong data-page-node-id="8Z3Ci6unUf56QUklAirmW8">页面之间的横向对比</strong>，不能当作绝对性能结论。
+</div>
+</div>
+
+<!-- KPI -->
+<div class="kpis" data-page-node-id="scebZNNLzVISCyxRfhGbfD">
+<div class="kpi" data-page-node-id="iK2SzqQjjbLldr5TXGVNwn"><div class="v" data-page-node-id="ahyEZwrFAbuF4OIXwxiAqr">100</div><div class="l" data-page-node-id="l9T9zBZY3SGc2MdiWgDIJa">HTML 页面总数</div></div>
+<div class="kpi" data-page-node-id="N1emqcoCRUEp9Cqd1DvqOH"><div class="v" data-page-node-id="ynFkfiIsY4VZ4jJ5zu1Yoe">100%</div><div class="l" data-page-node-id="1bMifypMNP3QR9F4xxGF8X">Title / Description / Canonical</div></div>
+<div class="kpi" data-page-node-id="TDR35WrgjsPA92NeABjKgO"><div class="v" data-page-node-id="sxAIAj8MAMLJiRKc5iDx3t">100%</div><div class="l" data-page-node-id="L4gxj2dMCHcWVBRBNAY2iz">Sitemap 收录覆盖</div></div>
+<div class="kpi" data-page-node-id="IDohLYimkmIuDG4eCiSCyq"><div class="v" data-page-node-id="C3nIJBjBgTs08Kr1qleeia">0</div><div class="l" data-page-node-id="VvgaGpa7AMordPqAN1YbTR">非 ASCII 违规页</div></div>
+<div class="kpi" data-page-node-id="oR4U16pFjdXvmmeps9tiuD"><div class="v" data-page-node-id="AilhqhOwttmYF7yxNyFbAX">0</div><div class="l" data-page-node-id="7QaWnZFVbKfFtcA0HhZwh1">真实断链</div></div>
+<div class="kpi" data-page-node-id="XHTaNDiOYflB17gAOg5XBD"><div class="v" data-page-node-id="HiZLa6WUtIM0jOi7vydYGJ">6.3<span style="font-size:1rem" data-page-node-id="RyaiR2sMTUMKzBTEUfPPP4">MB</span></div><div class="l" data-page-node-id="CLHjzuwLv3crrPcbsuFokP">新探店文图片总量</div></div>
+</div>
+
+<!-- 站点规模 -->
+<div class="card" data-page-node-id="Y8g3gkDBKgnKgDvj9Yc5sf">
+<h2 data-page-node-id="bMC8A1LfUznLqsoeqKkRg9">站点规模（本地文件实测）</h2>
+<table data-page-node-id="P62IiTAqcKJQuSCvpHBvHV">
+<tr data-page-node-id="gUAoiZdW6QJSKCbskBW8fU"><th data-page-node-id="wrKYXuTLXzrUgpTwDQXJMJ">目录</th><th data-page-node-id="puC2kdt4CH8ruvHVFgU6LE">页面数</th><th data-page-node-id="ndGezGKdwbCsEWdGsdHouG">说明</th></tr>
+<tr data-page-node-id="8glYsJr9ejkRwilAXPJ8Fk"><td data-page-node-id="qEaNCfNPe5lMPoG0kFYvmr">根目录</td><td class="num" data-page-node-id="WEX883GOE38fELyKrlYGG4">7</td><td data-page-node-id="rc7GZ4z9i4xoqLE8I28BT1">index / about / services / blog / faq / contact / 404</td></tr>
+<tr data-page-node-id="G4SlgdVyPaAsREk4eiy7Qt"><td data-page-node-id="59fGgiyikrGi7qQo1aCgmt">blog/</td><td class="num" data-page-node-id="yyK3xyVaZwaVRTMb73QcU5">37</td><td data-page-node-id="y5Zae9LP0b1ZlWGbT4Cnw6">博客文章（含 9/1 新增的纺织厂探店）</td></tr>
+<tr data-page-node-id="gt5MDdznAm3Nz5vcIzd9OP"><td data-page-node-id="f2bhbw4AkJtiamE1ooVfpJ">products/</td><td class="num" data-page-node-id="OXRfVboDmbb7kNDNnAwP6N">38</td><td data-page-node-id="LlBuUHjsoCmArtWfvW79VC">产品页与品类页</td></tr>
+<tr data-page-node-id="d7J4eWFcjWLftHXT7eFbPn"><td data-page-node-id="kpRGyqWCr2j0dUxyiJwhby">landing/</td><td class="num" data-page-node-id="SDDGCAED4UDkm15joN2Ee3">18</td><td data-page-node-id="r6aoRDw9uBPzEjvzoX7O0t">落地页</td></tr>
+<tr data-page-node-id="tGEoZZqxCJj1BR6x3i3g25"><td data-page-node-id="BJQHtJ1YaYZE0YOjZICXbr"><strong data-page-node-id="V8oKJsZgf1w2cacdEjUR5G">合计</strong></td><td class="num" data-page-node-id="YW8dHwZtuxlKbk4jf2dJJp"><strong data-page-node-id="deIDJ7qGwzhJT5xQiX8YAW">100</strong></td><td data-page-node-id="UAYssQCeMIxQ7kJVVJNowp">—</td></tr>
+</table>
+<div class="measure" data-page-node-id="XEs1kJHcHH4uOgHhiRLAoy">测量方式：递归遍历工作区所有 .html（排除 reports / research / drafts / .workbuddy）</div>
+</div>
+
+<!-- 线上性能 -->
+<div class="card" data-page-node-id="2fcQwl7Ysjmqi6VelBSjAw">
+<h2 data-page-node-id="oEN8DRrz1xH0EFgn9DflKu">线上响应实测（每页 3 次采样取中位数）</h2>
+<div class="bar-row" data-page-node-id="uHBUqxlZOzuqDsjEUKCKl7"><div class="bar-label" data-page-node-id="mCf1BVzYWOqaNZsAFGlFMp">首页 /</div><div class="bar-track" data-page-node-id="ce1GP51b0JGjJ2nb82TJIk"><div class="bar-fill" style="width:81%" data-page-node-id="0cCvXVNx4PSZWfA59hGVNk"></div></div><div class="bar-val" data-page-node-id="ghYOevidhDlj08DY897s3m">TTFB 0.930 s</div></div>
+<div class="bar-row" data-page-node-id="B2h9zgx7pfnzWu6tAx9yqH"><div class="bar-label" data-page-node-id="zoteoUQ0uysUNc6l5prdZd">纺织厂探店（新文）</div><div class="bar-track" data-page-node-id="RlaCveo6SvD1n5uo0Ycd9t"><div class="bar-fill" style="width:82%" data-page-node-id="vPdlUlxrVYD5sX2z34uAGh"></div></div><div class="bar-val" data-page-node-id="UXhOOzMfaShvP9h8tLuejw">TTFB 0.931 s</div></div>
+<div class="bar-row" data-page-node-id="Ko6c8OKJb44wYizjNfHmkm"><div class="bar-label" data-page-node-id="HIPzrTOfceUFvOEdoY2dI6">服务页 /services.html</div><div class="bar-track" data-page-node-id="NU1FNJTN7HjhsiMBhXWckI"><div class="bar-fill" style="width:84%" data-page-node-id="NySAWCD8wgeC9DIsEZFE9R"></div></div><div class="bar-val" data-page-node-id="Dfe7MXPSpvHozVwy9uZRIV">TTFB 0.961 s</div></div>
+<div class="bar-row" data-page-node-id="zRoE8E3Hd7X903JLEHQH5I"><div class="bar-label" data-page-node-id="cV3wpmgvTm2XKqGpxbcFjy">博客首页 /blog.html</div><div class="bar-track" data-page-node-id="leumw31wvoC2xMWXf9L1EI"><div class="bar-fill" style="width:85%" data-page-node-id="ESMSvyiDzeF0pwKeP8PbgG"></div></div><div class="bar-val" data-page-node-id="bO7EtOsqrKzzVpreHPmgfW">TTFB 0.967 s</div></div>
+<div class="bar-row" data-page-node-id="C8IcLDdnGYUruo3HuSUHJY"><div class="bar-label" data-page-node-id="ykIXVjU0Ggh8bOPx7ebQId">海运成本文（A13）</div><div class="bar-track" data-page-node-id="ArAxvtNVaQuFbxpmkTDEXa"><div class="bar-fill" style="width:89%" data-page-node-id="8F8ViWi2n2jsusR3wzSu9a"></div></div><div class="bar-val" data-page-node-id="saUdYrjlQiB5q3wNDcziNu">TTFB 1.022 s</div></div>
+<div class="bar-row" data-page-node-id="0YNLnc5PtoTofg0YOOXSQk"><div class="bar-label" data-page-node-id="G2dMi0J2wpQdM5dhcQiyR3">车膜产品页</div><div class="bar-track" data-page-node-id="nWqJSyYVPl6cgqx56jGygv"><div class="bar-fill" style="width:100%" data-page-node-id="UxYbpCXhTIJZOsV29jL389"></div></div><div class="bar-val" data-page-node-id="GPunCIXhIeKYI76UFBDvFA">TTFB 1.142 s</div></div>
+
+<p style="font-size:.88rem;margin-top:14px" data-page-node-id="Y02AVn83gEPjZsrBtoK5gX">6 个页面<strong data-page-node-id="KEN1sokxhAP3rT2LYBmC2P">全部返回 HTTP 200</strong>，无 404 / 5xx。条形长度按 TTFB 相对比例绘制（以最大值 1.142s 为基准）。</p>
+<table style="margin-top:14px" data-page-node-id="VL3fMJvROcpl3zsznd1tne">
+<tr data-page-node-id="D8FzO08kcoGQla8Jg17fZo"><th data-page-node-id="HKCFaKvuJk5OpK6dhCl0ZW">项目</th><th data-page-node-id="Q60fuMGwfmNkz3m9xIRxHV">实测值</th><th data-page-node-id="F315IfSCnvLiqI6QcD9rGM">判读</th></tr>
+<tr data-page-node-id="OIEq78ddGowicJcuytdjTB"><td data-page-node-id="gyQhOWFzs7qHd1iU7JKutZ">CDN</td><td data-page-node-id="5NEMg1IfKOTuN49UWF8vA3">Vercel（<code data-page-node-id="EeNWJulCBOHHgqZMhwd2Fc">server: Vercel</code>）</td><td class="ok" data-page-node-id="KMv2vn4egfP9T842BVS8Nf">已启用边缘 CDN</td></tr>
+<tr data-page-node-id="1XIjdstOpyELN6IKBxf2IP"><td data-page-node-id="AMH4NdEyunNjyNPmlCCqvE">边缘缓存命中</td><td data-page-node-id="nQGNOwHBe87vUx8eQkMFTe"><code data-page-node-id="4DGdcQCU0lnTXlRbTQH1Tm">x-vercel-cache: HIT</code>（age 317s）</td><td class="ok" data-page-node-id="u2JHxR6PvFHHI4sExkGQSx">命中缓存</td></tr>
+<tr data-page-node-id="LHTC3F4fJvd5WOzZmGhS00"><td data-page-node-id="RafY4cG7EDoplN0KpEeHPk">HTML 缓存策略</td><td data-page-node-id="Z1ualL7xAiUyaaIlvHOiJW"><code data-page-node-id="zJxgeD6fpd5e96bgFfmJHg">public, max-age=0, must-revalidate</code></td><td class="warn" data-page-node-id="MdNygfAiP0gXLHkFezkeQI">HTML 每次回源校验</td></tr>
+</table>
+<div class="measure" data-page-node-id="vsjXBZ1oMcKkjYzfI5Daxg">测量方式：curl 对每页请求 3 次，取 time_starttransfer 中位数；响应头取自真实响应</div>
+</div>
+
+<!-- SEO 健康度 -->
+<div class="card" data-page-node-id="DNyUoQ3ze1G7AWjfDHxVF8">
+<h2 data-page-node-id="ulPXnMnAuP8K0WODnGJ3an">SEO 元素完整度（100 页全量扫描）</h2>
+<div class="bar-row" data-page-node-id="lM0ogPqfTV40lxe3JtclS5"><div class="bar-label" data-page-node-id="aqFTZSmckwHR85CI1Y1iv3">Title 标签</div><div class="bar-track" data-page-node-id="kqtXc2njEZK8RzpCx96qlo"><div class="bar-fill" style="width:100%" data-page-node-id="IOEiBncwIjLpqoXqnCqI4I"></div></div><div class="bar-val" data-page-node-id="ClleI7uzgxQdaBsepZiKWB">100 / 100</div></div>
+<div class="bar-row" data-page-node-id="P0JVx5ATnxtcVElPNRWk2a"><div class="bar-label" data-page-node-id="1dz84e1IxOFS5iDK0qeH16">Meta Description</div><div class="bar-track" data-page-node-id="Sx392Xa76DUUPAXZRPwnHm"><div class="bar-fill" style="width:100%" data-page-node-id="pUDUhA9O5xoLiUg0VBWt18"></div></div><div class="bar-val" data-page-node-id="4z8uFef7uHHDsRFOn605uc">100 / 100</div></div>
+<div class="bar-row" data-page-node-id="xC0EDbVfsTcxUH7wR6FbAa"><div class="bar-label" data-page-node-id="BE8rpwOPxSsU5oZhShEgwe">Canonical</div><div class="bar-track" data-page-node-id="EyQb9z2CDFDsknld9DLXBO"><div class="bar-fill" style="width:100%" data-page-node-id="XWYsHGkBcWmH225orHs9Fz"></div></div><div class="bar-val" data-page-node-id="3OsJFDAviMlmRvGBBDAaPu">100 / 100</div></div>
+<div class="bar-row" data-page-node-id="3JGbbVU2eF7JveCFVtTbyf"><div class="bar-label" data-page-node-id="crXOv9LLdk52cgAiHaXQch">H1 唯一（每页恰好 1 个）</div><div class="bar-track" data-page-node-id="Xd1LfYpmjmZerzum5WD9qK"><div class="bar-fill" style="width:100%" data-page-node-id="bSmWsDFnGbtSalZX2l1xjf"></div></div><div class="bar-val" data-page-node-id="ff91aM8sEqx9foui7YYGUj">100 / 100</div></div>
+<div class="bar-row" data-page-node-id="mJI4ZGI4YWLV6UyscplQak"><div class="bar-label" data-page-node-id="rblTg8OUK75hIDv6f5NHmL">纯 ASCII 合规</div><div class="bar-track" data-page-node-id="E3FuyvLCnHdA3lb6HuLpfx"><div class="bar-fill" style="width:100%" data-page-node-id="wyA9Z1ui1V0T6xsKBn10nc"></div></div><div class="bar-val" data-page-node-id="wYBemfCCgOzIQJ9VrKf701">100 / 100</div></div>
+<div class="bar-row" data-page-node-id="Ea4kB5yg2V4ymzuSgcebeD"><div class="bar-label" data-page-node-id="vnSAGLXwNXmpUnjRg683oJ">JSON-LD 结构化数据</div><div class="bar-track" data-page-node-id="BT3k7l81pGJnkcb8tjGJCe"><div class="bar-fill" style="width:99%" data-page-node-id="htx4VcHMULXMjTAn26TTtA"></div></div><div class="bar-val" data-page-node-id="2Rgv3PqALNmGpnhyikouJ9">99 / 100</div></div>
+<div class="bar-row" data-page-node-id="sUkSl5bL5P0evvbRRSJ3Y7"><div class="bar-label" data-page-node-id="wxCKarK8GzQGRGrnDdA6FM">Sitemap 收录</div><div class="bar-track" data-page-node-id="J0V6PJRt2qGWsOZfWXNuPG"><div class="bar-fill" style="width:100%" data-page-node-id="mChjF2Xjq42Yr6qz6ZFPtv"></div></div><div class="bar-val" data-page-node-id="WJz5Hjs21N1IM8S3U9ypM1">99 / 99</div></div>
+<div class="bar-row" data-page-node-id="aMbu1foeS6pRYYitWllPDI"><div class="bar-label" data-page-node-id="GzRuE3XRoC50JV93VavciY">og:image 社交分享图</div><div class="bar-track" data-page-node-id="ErQnXmAVhxDoRj2WdO1iwJ"><div class="bar-fill" style="width:82%;background:linear-gradient(90deg,#f87171,#fbbf24)" data-page-node-id="DSirUDbN3GcjeWALC2ou14"></div></div><div class="bar-val" data-page-node-id="3Il9tlfdUHjP63HRgZSEcD">82 / 100</div></div>
+
+<div class="good" data-page-node-id="YIozOAhfhKihMEv77agiL3">
+<strong data-page-node-id="IoV8d8sBdLGrFHEByboCFH">结论：</strong>核心 SEO 元数据做到了全覆盖，纯 ASCII 铁律 100% 达标，sitemap 覆盖完整（99 个非 404 页面全部收录），且<strong data-page-node-id="xhxEQVits0074cWswxZGRZ">没有真实断链</strong>。
+</div>
+<div class="note" data-page-node-id="EfYuNzrpEr2NBCHT1S4X5O">
+<strong data-page-node-id="1edPHTgGCFyjJca4dOYB4F">排除两个误报（我的脚本问题，不是你的站点问题）：</strong><br data-page-node-id="9D9pSCW5CsRTGIkoAwV2jR">
+1. 扫描一度报出 10 个"断链"，逐一核实后全是 <code data-page-node-id="GrpYd5gQcV0xHAe2Ew65BV">/blog/xxx.html</code> 形式的<strong data-page-node-id="dsQRFUuSZ9zOFbQb7lRkOo">根相对绝对路径</strong>，目标文件全部真实存在，是合法链接。<br data-page-node-id="ZDJy77v0eTGRI1HxgSXeFU">
+2. Sitemap 覆盖率一度显示异常，是路径字符串比对没做规范化（一个带 <code data-page-node-id="ruJQKTFTRldrfivBbWqAUl">./</code> 一个不带）导致的，重算后为 100%。
+</div>
+</div>
+
+<!-- 问题清单 -->
+<div class="card" data-page-node-id="mmedBL58xqYt9wxrVVNstg">
+<h2 data-page-node-id="4zbjraDBkwhpJa1qsCAvSz">问题清单（按优先级，都是实测出来的）</h2>
+
+<h3 data-page-node-id="GWHpG5nBs1hY0AK6SFWJdE">1. faq.html 公开披露了 sourcing fee 收费标准 <span class="tag tag-p0" data-page-node-id="C1Nneecs9EcS8pvHWniiB8">P0</span></h3>
+<p style="font-size:.9rem" data-page-node-id="kRYcl4LeRmKWkldxfeFDGA">你的铁律是：<strong data-page-node-id="Y5CPUizAqqSWeB9FHa0JS0">严禁任何 +20% 加价 / sourcing fee / 加价表述，对外只说透明定价、直接询价给报价，不单列加价项、不披露比例</strong>。但 <code data-page-node-id="kaq5vWjXJxnC0q2U5Bdezt">faq.html</code> 里有 3 处明确写死比例：</p>
+<ul data-page-node-id="A8AVVfqDlXOsfu9AQxG5iD">
+<li data-page-node-id="tP9x4FE7oMbDguLRaa1A7I"><code data-page-node-id="atD87mFJcyHaVyi9G8tSDc">Sourcing fee (typically 3-10% of order value)</code></li>
+<li data-page-node-id="VkIykGgltTQuSsE6EhRCZu"><code data-page-node-id="HLhlBeLDcVRLQa8HRATzQ3">Sourcing fee - Service fee for finding and managing suppliers (typically 3-10% of order value)</code></li>
+<li data-page-node-id="NAWm6miQDzbM8dIRfcRUpE">示例计算：<code data-page-node-id="SfnhbYFdkHm3HDjXS7fKqj">Sourcing fee (5%): $250</code></li>
+</ul>
+<div class="crit" data-page-node-id="1ntAXxGhiGAzF0MYnbR3Ix">
+<strong data-page-node-id="3AmkfurK5474bKM9fh3CZF">风险点：</strong>这些内容同时写在 <strong data-page-node-id="jgNl4f7gVlKCD5HDjpAvrX">FAQPage 的 JSON-LD 结构化数据</strong>里，会被 Google 抓取并可能直接展示在搜索结果的富摘要中。也就是说，买家不用点进网站就能在 Google 上看到你的收费比例。虽然写的是 3-10% 而不是已作废的 +20%，但仍然属于"公开单列加价项并披露比例"。<strong data-page-node-id="QAzDEZqAfZ7RbBTZ6kj92E">是否保留请你定夺，我不替你改。</strong>
+</div>
+<p style="font-size:.88rem;margin-top:8px" data-page-node-id="u9im946d2HfgVcEC9CR1pt">另外两处命中，我判断是合规的，一并列出供你确认：</p>
+<ul data-page-node-id="lUEdktu61ttrXz8kPSNIKy">
+<li data-page-node-id="4oceBLVm7I4YZdAlSx3ylu"><code data-page-node-id="whg5SedtNbPSt5Bh1wFfAl">about.html</code>：「Honesty First - Transparent Sourcing Fees / We don't hide fees...」—— 正面倡导透明收费，语义符合你的立场，仅标题字面含该词。</li>
+<li data-page-node-id="m7hp1G98fBdcSRzkaDkcsk"><code data-page-node-id="BIDqqQaWblFSH7PEtYHbWQ">blog-sourcing-agent-vs-alibaba.html</code>：「It feels "free" because you don't pay a membership or a sourcing fee」—— 描述 Alibaba 这个竞品，不是给自己标价；同页还有「价格通常比外国买家直接问价低 10-20%」的正面价值主张。</li>
+</ul>
+
+<h3 data-page-node-id="q2P68N6waT5l7xD8iiw19Y">2. 纺织厂探店文图片过重：7 张合计 6.3MB <span class="tag tag-p1" data-page-node-id="o4ca9C506R6GOm0LTcv09w">P1</span></h3>
+<p style="font-size:.9rem" data-page-node-id="NWRo4H6Vmb6cH2PhsnXk8U">已逐张核验：<strong data-page-node-id="BtQ3tUFsqegGHl9eUcUUWm">7 张图全部真实部署在线</strong>（HTTP 200、content-type 为 image/webp、文件头 RIFF 确认是真 webp，不是 404 回退）。但体积偏大，移动端流量消耗和加载时间都会受影响。</p>
+<table data-page-node-id="TAUy8KXNovFjEG6sI2xTI9">
+<tr data-page-node-id="8Qt4nAuNjfL5kizThXfclX"><th data-page-node-id="OHLynONm98GzEmhEOuQcXS">图片</th><th data-page-node-id="4vyxXlTREl4caXJw7ABbRp">线上实测大小</th></tr>
+<tr data-page-node-id="04UFvOF18ZaKJ7VPLDCEAb"><td data-page-node-id="CIYH7Cwt786pZ9Htqro1uF">zhaoqing-textile-06.webp</td><td class="num" data-page-node-id="MbQi1mKBd1OtJcIK3CKL8T">1826 KB</td></tr>
+<tr data-page-node-id="xX35hM3715Y9yt317y9lRE"><td data-page-node-id="Hl2N7t4TytVz7gVF4Oc4Fj">zhaoqing-textile-04.webp</td><td class="num" data-page-node-id="M5Vp9HI3C7vT5PswA2is3x">1002 KB</td></tr>
+<tr data-page-node-id="I24HIlHWPlMVV5YnKU6HkF"><td data-page-node-id="FdbAv1BTkM90iL8GJBj1di">zhaoqing-textile-01.webp</td><td class="num" data-page-node-id="ueIq5u3Z4uer1F39jhTdY7">823 KB</td></tr>
+<tr data-page-node-id="gW4FQKran7p9xGdsL8HheF"><td data-page-node-id="BmWQZ8tCa9yiHDXvm5ANGU">zhaoqing-textile-03.webp</td><td class="num" data-page-node-id="bMQYbJyCf0d8vnFZvoF6j9">739 KB</td></tr>
+<tr data-page-node-id="B87k7AcrVJ0VA4LBtCaPLW"><td data-page-node-id="ZykGG5SHkOanJ8Cc3fvrmX">zhaoqing-textile-02.webp</td><td class="num" data-page-node-id="v1rF2mooiCoV1ASp4L0qKW">727 KB</td></tr>
+<tr data-page-node-id="ncOWsiSFR6iM3d23GTeePm"><td data-page-node-id="FQWN6DZccOkT27RXTGVYOf">zhaoqing-textile-05.webp</td><td class="num" data-page-node-id="vRXVPqxHECuKE3aroBl0xm">721 KB</td></tr>
+<tr data-page-node-id="zGbSklXocCsmcy1aPOZrZY"><td data-page-node-id="NRPEfoPsTK3DEJqlFkBFPX">zhaoqing-textile-07.webp</td><td class="num" data-page-node-id="OwF1UyQ8ZriO5GqIvuHubu">610 KB</td></tr>
+<tr data-page-node-id="gN0ftBNfIBrwbMphWyCLEF"><td data-page-node-id="GYLV7JQ74NZ9CKlQKKgRxq"><strong data-page-node-id="DOwwv0keOJpCDDXt8pNMwc">合计</strong></td><td class="num" data-page-node-id="aykIoFAWZ4bSOu1KRz6TZi"><strong data-page-node-id="cqKZXoecpGBdE4GkCk803a">约 6.3 MB</strong></td></tr>
+</table>
+<div class="note" data-page-node-id="tx0amDqryue8d0QP7SpKoE">建议：把这 7 张压到每张 150-250KB 左右（博客展示尺寸不需要原图分辨率），总量可降到 1.5MB 以内，视觉几乎无损。你那个转 webp 的软件调一下质量参数即可。</div>
+
+<h3 data-page-node-id="07pbZvHmAlDDZ1TVSGAQAZ">3. 18 个页面缺 og:image <span class="tag tag-p2" data-page-node-id="vsp9mefCsAEebujDVHR8DK">P2</span></h3>
+<p style="font-size:.9rem" data-page-node-id="vxB5H3dctdXuP2JZBRXoR7">主要是 <code data-page-node-id="XIZNmzi9FHxmXXQ1Pr9xAW">products/</code> 下的品类页与产品页（16 个）+ 404 页。缺 og:image 意味着这些页面被分享到 WhatsApp / Facebook / LinkedIn 时<strong data-page-node-id="WlVu78tL84jT8YRaPiYQco">不会显示预览图</strong>，只显示一个灰块，影响点击率。你的博客页基本都有，主要是产品页这块漏了。</p>
+<p style="font-size:.86rem;color:#9a9ab5" data-page-node-id="oRsXmTrEmjuSo3WTE2tj3Z">涉及：apparel-accessories、consumer-electronics、pet-supplies、automotive-supplies-tools、tiktok-trending、custom-oem-private-label 等品类页，以及 cat-* 系列宠物服装、gps-collar、glow-collar、pet-collar、smart-litter-box、auto-feeder 等产品页。</p>
+
+<h3 data-page-node-id="JtT6stPTHtcmJjMmSVNimt">4. 全站图片资产 <span class="tag tag-p2" data-page-node-id="tcbQEH1YlHouHXKRl4hP0s">P2</span></h3>
+<p style="font-size:.9rem" data-page-node-id="yPlt2AnfLwxW894gBOA0yZ">共 <strong data-page-node-id="jXeM9bvlQiG3JLELVXk5VH">369 张</strong>图片，本地总计 <strong data-page-node-id="SyFE5jmZXGDzSpa6BAV6sK">30.68 MB</strong>。其中 <strong data-page-node-id="kjxpb9eO4vSmeE6liMLQTH">4 张超过 1MB</strong>：纺织厂 06/01/03（1.78 / 1.45 / 1.26 MB）以及 <code data-page-node-id="CIgqVjix3gJf9JlIp26fnR">assets/LOGO.png</code>（1.19 MB，注意这个是 PNG，站点已全面用 webp，这个 PNG 显得多余）。</p>
+</div>
+
+<!-- 展示效果数据 -->
+<div class="card" data-page-node-id="d3EOAJHRnoLfcNBB4Xy6xM">
+<h2 data-page-node-id="7EhMTvELxHad7NLADbopEu">关于"展示效果数据"（Impressions / 点击）——怎么拿到真数</h2>
+<p style="font-size:.92rem" data-page-node-id="0VG5BfVmDGADo8YXjRR0DU">如果你说的"展示效果"是指 Google 搜索里的<strong data-page-node-id="IbqoMfnVpbLuhGkbOL0AbQ">展示次数、点击次数、点击率、平均排名</strong>，那唯一真实来源是 Google Search Console。我这边访问不到 Google，也拿不到你的账号授权，所以<strong data-page-node-id="OsnmHegWQ5XV2tYNejDghD">这部分我给不出任何数字，也不编造</strong>。</p>
+<p style="font-size:.9rem;margin-top:12px" data-page-node-id="6ciDMByDdJXhRb53iRzA0r">给你三条路，任选一条我就能接着做真实分析：</p>
+<ul data-page-node-id="6EO2j5Xu3zDy5Es4g3XR9n">
+<li data-page-node-id="iu74h9iRG9ZTmWpT1rFt3t"><strong data-page-node-id="kFUIgIPhXfvMWtsEhz4cn1">最省事：</strong>进 GSC 后台 → 效果 → 选最近 3 个月或 6 个月 → 右上角「导出」→ 下载 CSV，把文件丢给我，我直接做趋势、查询词、页面维度的分析。</li>
+<li data-page-node-id="7TnNrzjXDex3wneos3f4xX"><strong data-page-node-id="AAZqJxcASDqJPTDP4veDN9">次省事：</strong>在 GSC 里截几张图（效果总览、查询词 Top、页面 Top），发我，我从图里提数据。</li>
+<li data-page-node-id="AaIuZDnWzBgox75nBubD7A"><strong data-page-node-id="Ntja7pwaQhAEixDi9AHHTm">你要日更看板：</strong>给我 GA4 的属性 ID + 一个服务账号凭据，我就能拉真实流量数据，还能做成定期自动更新的看板。</li>
+</ul>
+<div class="note" data-page-node-id="4C6SuPKP6BMLDE7llX3rqC">补充一条实测：你的 GA4 代码（<code data-page-node-id="EAqpkCEh04g0KNHYMezvS8">G-5NZQCPJRRX</code>）在首页是<strong data-page-node-id="FpAEFJJvWDnB1zmvq1ENdm">确认存在且正确加载</strong>的，所以只要 Google 那边有数据，就能拉出来——数据不缺，缺的只是取数通道。</div>
+</div>
+
+<div class="foot" data-page-node-id="1j6vItOk0tveCP7lZd2yBp">
+报告生成于 2026-09-04 16:45 (GMT+8) &nbsp;|&nbsp; 数据源：线上真实 HTTP 请求 + 本地 100 页全量扫描<br data-page-node-id="TcrkwelU1NrBXH12IBOfgi">
+所有数字均可复现；标注"拿不到"的部分未使用任何估算或推测值
+</div>
+
+</div>
+</body>
+</html>

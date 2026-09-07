@@ -1,0 +1,202 @@
+{
+ "ttfb": {
+  "home": {
+   "url": "https://www.youna-global.com/",
+   "http": [
+    200,
+    200,
+    200
+   ],
+   "ttfb_s": [
+    0.948,
+    0.918,
+    0.93
+   ],
+   "ttfb_median": 0.93,
+   "total_median": 0.933,
+   "html_bytes": 2358
+  },
+  "blog_index": {
+   "url": "https://www.youna-global.com/blog.html",
+   "http": [
+    200,
+    200,
+    200
+   ],
+   "ttfb_s": [
+    1.145,
+    0.967,
+    0.953
+   ],
+   "ttfb_median": 0.967,
+   "total_median": 0.968,
+   "html_bytes": 2358
+  },
+  "services": {
+   "url": "https://www.youna-global.com/services.html",
+   "http": [
+    200,
+    200,
+    200
+   ],
+   "ttfb_s": [
+    0.961,
+    0.931,
+    1.512
+   ],
+   "ttfb_median": 0.961,
+   "total_median": 0.962,
+   "html_bytes": 2358
+  },
+  "product_ppf": {
+   "url": "https://www.youna-global.com/products/paint-protection-film.html",
+   "http": [
+    200,
+    200,
+    200
+   ],
+   "ttfb_s": [
+    1.343,
+    1.142,
+    0.947
+   ],
+   "ttfb_median": 1.142,
+   "total_median": 1.142,
+   "html_bytes": 7743
+  },
+  "article_sea": {
+   "url": "https://www.youna-global.com/blog/blog-sea-freight-from-china-2026.html",
+   "http": [
+    200,
+    200,
+    200
+   ],
+   "ttfb_s": [
+    1.163,
+    1.022,
+    0.932
+   ],
+   "ttfb_median": 1.022,
+   "total_median": 1.023,
+   "html_bytes": 3015
+  },
+  "article_textile": {
+   "url": "https://www.youna-global.com/blog/blog-zhaoqing-textile-factory-tour.html",
+   "http": [
+    200,
+    200,
+    200
+   ],
+   "ttfb_s": [
+    0.921,
+    0.942,
+    0.931
+   ],
+   "ttfb_median": 0.931,
+   "total_median": 0.935,
+   "html_bytes": 3016
+  }
+ },
+ "headers": {
+  "home": "HTTP/1.1 200 Connection Established\n\nHTTP/1.1 200 OK\nAccept-Ranges: bytes\nAccess-Control-Allow-Origin: *\nAge: 317\nCache-Control: public, max-age=0, must-revalidate\nContent-Disposition: inline\nContent-Length: 41043\nContent-Type: text/html; charset=utf-8\nDate: Fri, 04 Sep 2026 08:39:14 GMT\nEtag: \"68c2c78f62218b52b8be0a2591e42a34\"\nLast-Modified: Fri, 04 Sep 2026 08:33:57 GMT\nServer: Vercel\nStrict-Transport-Security: max-age=63072000\nX-Vercel-Cache: HIT\nX-Vercel-Id: sin1::gsg9w-1788511154772-b6d4f4b02a13\n\n"
+ },
+ "weight": {
+  "home": {
+   "html_bytes": 41043,
+   "asset_count": 20,
+   "asset_bytes": 91660,
+   "total_kb": 129.6,
+   "biggest": [
+    {
+     "u": "all.min.css",
+     "b": 13652
+    },
+    {
+     "u": "client-review-jadeite.webp",
+     "b": 13651
+    },
+    {
+     "u": "client-review-packing-list.webp",
+     "b": 13647
+    },
+    {
+     "u": "Youworkprofessionallyandsincerely.webp",
+     "b": 7748
+    },
+    {
+     "u": "cangchu.webp",
+     "b": 3057
+    },
+    {
+     "u": "flag-cn.png",
+     "b": 3057
+    }
+   ]
+  },
+  "article_sea": {
+   "html_bytes": 39766,
+   "asset_count": 7,
+   "asset_bytes": 28820,
+   "total_kb": 67.0,
+   "biggest": [
+    {
+     "u": "22.webp",
+     "b": 7774
+    },
+    {
+     "u": "all.min.css",
+     "b": 7757
+    },
+    {
+     "u": "main.js",
+     "b": 4133
+    },
+    {
+     "u": "02.webp",
+     "b": 3057
+    },
+    {
+     "u": "LOGO2.png",
+     "b": 3057
+    },
+    {
+     "u": "style.css",
+     "b": 3042
+    }
+   ]
+  },
+  "article_textile": {
+   "html_bytes": 29713,
+   "asset_count": 13,
+   "asset_bytes": 50421,
+   "total_kb": 78.3,
+   "biggest": [
+    {
+     "u": "22.webp",
+     "b": 7775
+    },
+    {
+     "u": "zhaoqing-textile-05.webp",
+     "b": 7761
+    },
+    {
+     "u": "zhaoqing-textile-07.webp",
+     "b": 7761
+    },
+    {
+     "u": "main.js",
+     "b": 4133
+    },
+    {
+     "u": "LOGO2.png",
+     "b": 3057
+    },
+    {
+     "u": "zhaoqing-textile-02.webp",
+     "b": 3045
+    }
+   ]
+  }
+ },
+ "sitemap": {}
+}
