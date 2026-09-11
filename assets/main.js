@@ -52,17 +52,26 @@ if (contactForm) {
  });
 }
 
-// Success modal
+// Success modal + GA4 lead conversion
 document.addEventListener('DOMContentLoaded', function () {
  if (window.location.search.includes('success=true')) {
+ // GA4: record the inquiry as a lead. Mark generate_lead as a Key Event in GA4 admin.
+ if (typeof gtag === 'function') {
+  gtag('event', 'generate_lead', {
+   form_name: 'contact_inquiry',
+   page_location: window.location.href
+  });
+ }
+
  const successModal = document.getElementById('successModal');
  if (successModal) {
   successModal.style.display = 'flex';
-  window.history.replaceState({}, document.title, window.location.pathname);
   setTimeout(function () {
   successModal.style.display = 'none';
   }, 5000);
  }
+
+ window.history.replaceState({}, document.title, window.location.pathname);
  }
 });
 
