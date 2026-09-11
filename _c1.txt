@@ -1,0 +1,4 @@
+== blog/blog-source-consumer-electronics-china.html ==
+schema types: ['BlogPosting', 'FAQPage', 'BreadcrumbList']
+hash checks: external links 11 | internal links 72
+ALL CHECKS PASSED

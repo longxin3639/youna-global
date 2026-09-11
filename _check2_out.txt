@@ -1,0 +1,18 @@
+sections 10
+h3 23
+tables 1
+tips 2
+nonascii_html 0
+external_links_preserved True True
+token '%' 0
+token '->' 0
+token '=>' 0
+token 'commission' 0
+token '+20' 0
+token 'markup' 0
+token ' jade' 0
+token 'feicui' 0
+token '100%' 0
+token 'guarantee' 0
+dashes False
+faq_count 23

@@ -187,10 +187,10 @@ def build_article(args, toc, body, sidebar_html):
   </div>
   <p>Karsa has been helping e-commerce sellers and businesses source products from China since 2016, serving clients from 23+ countries.</p>
   </div>
+ </div>
 
  %(sidebar)s
 
- </div>
  </div>
 </article>""" % {
         "category": args.category,

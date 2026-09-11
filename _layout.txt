@@ -1,0 +1,10 @@
+
+articles scanned: 38
+LAYOUT OK - sidebar sits in the right column, outside .article-main  (36)
+    blog/blog-source-consumer-electronics-china.html           html > body > ar
+ticle.article-page > div.container
+LAYOUT BROKEN - sidebar nested inside .article-main, renders below  (0)
+NO article-sidebar AT ALL  (2)
+RESULT: ISSUES FOUND
+
+

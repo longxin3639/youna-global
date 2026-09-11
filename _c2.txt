@@ -1,0 +1,7 @@
+== blog/blog-canton-fair-autumn-2026-guide.html ==
+  page: 200 (46556 bytes)
+  internal targets fetched: 32 | failures: 0
+== blog/blog-tiktok-shop-china-sourcing.html ==
+  page: 200 (44124 bytes)
+  internal targets fetched: 30 | failures: 0
+RENDER CHECK PASSED
